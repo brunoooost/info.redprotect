@@ -27,6 +27,9 @@
             padding: 1rem;
             text-align: center;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap; /* Permite que los enlaces se ajusten si la pantalla es demasiado pequeña */
         }
         nav a {
             color: #fff;
@@ -120,9 +123,13 @@
             header {
                 padding: 1.5rem;
             }
+            nav {
+                flex-wrap: nowrap; /* Forzamos que todo quede en una línea */
+                overflow-x: auto; /* Permitimos desplazamiento horizontal si es necesario */
+            }
             nav a {
-                display: block;
-                margin: 0.5rem 0;
+                margin: 0 0.5rem;
+                white-space: nowrap; /* Evita que los enlaces se dividan en varias líneas */
             }
             main {
                 padding: 1rem;
