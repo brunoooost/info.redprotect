@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ProtectIT.</title>
+    <title>Comunidad de Ciberseguridad - ProtectIT</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -26,9 +27,16 @@
             color: #fff;
             margin: 0 1rem;
             text-decoration: none;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: #ffa500;
         }
         main {
             padding: 2rem;
+        }
+        section {
+            margin-bottom: 2rem;
         }
         footer {
             background-color: #333;
@@ -39,11 +47,26 @@
             width: 100%;
             bottom: 0;
         }
+        .icons {
+            display: flex;
+            justify-content: center;
+            margin-top: 1rem;
+        }
+        .icons a {
+            color: #fff;
+            margin: 0 0.5rem;
+            font-size: 1.5rem;
+            transition: color 0.3s;
+        }
+        .icons a:hover {
+            color: #ffa500;
+        }
     </style>
 </head>
 <body>
     <header>
         <h1>Bienvenidos a ProtectIT</h1>
+        <p>Una comunidad dedicada a la ciberseguridad</p>
     </header>
     <nav>
         <a href="#inicio">Inicio</a>
@@ -54,10 +77,9 @@
     <main>
         <section id="inicio">
             <h2>Inicio</h2>
-            <p>Nuestra comunidad nació de la pasión compartida por tres estudiantes: <a href="https://www.linkedin.com/in/bruno-salvatella-teichman/" target="_blank"> Bruno Salvatella</a>,   <a href="https://www.linkedin.com/in/vasile-gabriel-g-9468072b6/" target="_blank">Gabriel Grigor</a> y <a href="https://www.linkedin.com/in/aidan-c-924b382b0/" target="_blank">Aidan</a> . 
-                Unidos por nuestro interés en el fascinante mundo de la ciberseguridad, decidimos crear un espacio donde podamos aprender, compartir conocimientos y crecer juntos en este campo tan dinámico y crucial.
-            </p>En nuestra comunidad, encontrarás recursos valiosos, desde artículos y tutoriales hasta herramientas y discusiones en nuestro foro. Queremos fomentar un ambiente colaborativo y de apoyo, donde todos, desde principiantes hasta expertos, puedan contribuir y beneficiarse. 
-            </p>Únete a nosotros y sé parte de una comunidad que valora la seguridad digital y la protección de la información. Juntos, podemos hacer del ciberespacio un lugar más seguro para todos.</p>
+            <p style="text-align: justify;">Nuestra comunidad nació de la pasión compartida por tres estudiantes: <a href="https://www.linkedin.com/in/bruno-salvatella-teichman/" target="_blank"> Bruno Salvatella</a>, <a href="https://www.linkedin.com/in/vasile-gabriel-g-9468072b6/" target="_blank">Gabriel Grigor</a> y <a href="https://www.linkedin.com/in/aidan-c-924b382b0/" target="_blank">Aidan</a>. Unidos por nuestro interés en el fascinante mundo de la ciberseguridad, decidimos crear un espacio donde podamos aprender, compartir conocimientos y crecer juntos en este campo tan dinámico y crucial.</p>
+            <p style="text-align: justify;">En nuestra comunidad, encontrarás recursos valiosos, desde artículos y tutoriales hasta herramientas y discusiones en nuestro foro. Queremos fomentar un ambiente colaborativo y de apoyo, donde todos, desde principiantes hasta expertos, puedan contribuir y beneficiarse.</p>
+            <p style="text-align: justify;">Únete a nosotros y sé parte de una comunidad que valora la seguridad digital y la protección de la información. Juntos, podemos hacer del ciberespacio un lugar más seguro para todos.</p>
         </section>
         <section id="recursos">
             <h2>Recursos</h2>
@@ -69,10 +91,17 @@
         </section>
         <section id="contacto">
             <h2>Contacto</h2>
-            <p>Si tienes alguna pregunta, no dudes en <a href="mailto:info.protectit@icloud.com" </a> contactarnos.</a></p>   
-    <p>Nos puedes encontrar en LinkedIn: <a href="https://www.linkedin.com/groups/9867177/" target="_blank">ProtectIT</a></p>
+            <p>Si tienes alguna pregunta, no dudes en <a href="mailto:protectit.info@proton.mail">contactarnos</a>.</p>
+            <p>Nos puedes encontrar en LinkedIn: <a href="https://www.linkedin.com/groups/9867177/" target="_blank">ProtectIT</a></p>
         </section>
     </main>
-  
+    <footer>
+        <p>&copy; 2024 ProtectIT. Todos los derechos reservados.</p>
+        <div class="icons">
+            <a href="https://www.linkedin.com/groups/9867177/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="mailto:protectit.info@proton.mail"><i class="fas fa-envelope"></i></a>
+        </div>
+    </footer>
 </body>
 </html>
+
