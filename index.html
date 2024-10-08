@@ -29,7 +29,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             display: flex;
             justify-content: center;
-            flex-wrap: wrap; /* Permite que los enlaces se ajusten si la pantalla es demasiado pequeña */
+            flex-wrap: wrap;
         }
         nav a {
             color: #fff;
@@ -62,6 +62,11 @@
         section p a:hover {
             color: #ffa500;
         }
+        /* Enlaces específicos en negrita */
+        .bold-link {
+            font-weight: bold; /* Hace los enlaces en negrita */
+        }
+
         footer {
             background-color: #333;
             color: #fff;
@@ -124,12 +129,12 @@
                 padding: 1.5rem;
             }
             nav {
-                flex-wrap: nowrap; /* Forzamos que todo quede en una línea */
-                overflow-x: auto; /* Permitimos desplazamiento horizontal si es necesario */
+                flex-wrap: nowrap;
+                overflow-x: auto;
             }
             nav a {
                 margin: 0 0.5rem;
-                white-space: nowrap; /* Evita que los enlaces se dividan en varias líneas */
+                white-space: nowrap;
             }
             main {
                 padding: 1rem;
@@ -149,6 +154,7 @@
 <body>
     <header>
         <h1>ProtectIT</h1>
+        <p>Una comunidad dedicada a la ciberseguridad</p>
     </header>
     <nav>
         <a href="#inicio">Inicio</a>
@@ -163,7 +169,13 @@
         </div>
         <section id="inicio">
             <h2>Inicio</h2>
-            <p style="text-align: justify;">Nuestra comunidad nació de la pasión compartida por tres estudiantes: <a href="https://www.linkedin.com/in/bruno-salvatella-teichman/" target="_blank"> Bruno Salvatella</a>, <a href="https://www.linkedin.com/in/vasile-gabriel-g-9468072b6/" target="_blank">Gabriel Grigor</a> y <a href="https://www.linkedin.com/in/aidan-c-924b382b0/" target="_blank">Aidan</a>. Unidos por nuestro interés en el fascinante mundo de la ciberseguridad, decidimos crear un espacio donde podamos aprender, compartir conocimientos y crecer juntos en este campo tan dinámico y crucial.</p>
+            <p style="text-align: justify;">
+                Nuestra comunidad nació de la pasión compartida por tres estudiantes: 
+                <a href="https://www.linkedin.com/in/bruno-salvatella-teichman/" target="_blank" class="bold-link">Bruno Salvatella</a>, 
+                <a href="https://www.linkedin.com/in/vasile-gabriel-g-9468072b6/" target="_blank" class="bold-link">Gabriel Grigor</a> y 
+                <a href="https://www.linkedin.com/in/aidan-c-924b382b0/" target="_blank" class="bold-link">Aidan</a>.
+                Unidos por nuestro interés en el fascinante mundo de la ciberseguridad, decidimos crear un espacio donde podamos aprender, compartir conocimientos y crecer juntos en este campo tan dinámico y crucial.
+            </p>
             <p style="text-align: justify;">En nuestra comunidad, encontrarás recursos valiosos, desde artículos y tutoriales hasta herramientas y discusiones en nuestro foro. Queremos fomentar un ambiente colaborativo y de apoyo, donde todos, desde principiantes hasta expertos, puedan contribuir y beneficiarse.</p>
             <p style="text-align: justify;">Únete a nosotros y sé parte de una comunidad que valora la seguridad digital y la protección de la información. Juntos, podemos hacer del ciberespacio un lugar más seguro para todos.</p>
         </section>
@@ -177,8 +189,8 @@
         </section>
         <section id="contacto">
             <h2>Contacto</h2>
-            <p>Si tienes alguna pregunta, no dudes en <a href="mailto:protectit.info@proton.mail">contactarnos</a>.</p>
-            <p>Nos puedes encontrar en LinkedIn: <a href="https://www.linkedin.com/groups/9867177/" target="_blank">ProtectIT</a></p>
+            <p>Si tienes alguna pregunta, no dudes en <a href="mailto:protectit.info@proton.mail" class="bold-link">contactarnos</a>.</p>
+            <p>Nos puedes encontrar en LinkedIn: <a href="https://www.linkedin.com/groups/9867177/" target="_blank" class="bold-link">ProtectIT</a></p>
         </section>
     </main>
     <footer>
@@ -190,4 +202,3 @@
     </footer>
 </body>
 </html>
-
