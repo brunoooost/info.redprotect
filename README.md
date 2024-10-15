@@ -5,7 +5,7 @@ RedProtect is a community formed by students that they enjoy coding and learning
 
 ## Feedback
 
-If you have any feedback, please reach out to us at info.redprotect@icloud.com 
+If you have any feedback, please reach out to us at redprotect@icloud.com 
 
 
 ## Author
