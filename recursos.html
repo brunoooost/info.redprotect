@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
     <style>
-        /* CSS compartido para todas las páginas */
         body {
             font-family: 'Roboto', sans-serif;
             margin: 0;
@@ -41,22 +40,13 @@
         nav a:hover {
             color: #DF5437;
         }
-        section {
-            margin-bottom: 2rem;
-            background: #fff;
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
             padding: 1.5rem;
+            background: #fff;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        section h2 {
-            color: #9A2B13;
-        }
-        section p a {
-            text-decoration: none;
-            color: #9A2B13;
-        }
-        section p a:hover {
-            color: #ffa500;
         }
         footer {
             background-color: #333;
@@ -92,15 +82,17 @@
         <a href="contacto.html">Contact</a>
     </nav>
     <main>
-        <section id="recursos">
-            <h2>Resources</h2>
-            <p>Find articles, tutorials, and useful tools to improve your cybersecurity skills.</p>
-            <ul>
-                <li><a href="https://docs.google.com/document/d/1106NAwN0anzMg2c3PpoimGZfg8HCXAEx5WopNsEpwFg/edit?usp=sharing" target="_blank">Sites to Learn Cybersecurity</a></li>
-                <li><a href="https://docs.google.com/document/d/1YSvWvN_pOgPzz_asCxQSnDSUV2gg4lgDFLvGIXcm4Tg/edit?usp=sharing" target="_blank">Useful Cybersecurity Tools</a></li>
-                <li><a href="https://docs.google.com/document/d/1JURBfBqSNyAq5UI99y4mZmNhpViFiFTS/edit?usp=sharing" target="_blank">Capture the Flag (CTF) Resources</a></li>
-            </ul>
-        </section>
+        <div class="container">
+            <section id="recursos">
+                <h2>Resources</h2>
+                <p>Find articles, tutorials, and useful tools to improve your cybersecurity skills.</p>
+                <ul>
+                    <li><a href="https://docs.google.com/document/d/1106NAwN0anzMg2c3PpoimGZfg8HCXAEx5WopNsEpwFg/edit?usp=sharing" target="_blank">Sites for Cybersecurity Practice</a></li>
+                    <li><a href="https://docs.google.com/document/d/1XBvlD4SoMBCXe82ULCjvhtwNsH4QXa5FLV4lgDFLvGIXcm4Tg/edit?usp=sharing" target="_blank">Useful Cybersecurity Tools</a></li>
+                    <li><a href="https://docs.google.com/document/d/1JURBfBqSNyAq5UI99y4mZmNhpViFiFTS/edit?usp=sharing" target="_blank">Capture the Flag (CTF) Resources</a></li>
+                </ul>
+            </section>
+        </div>
     </main>
     <footer>
         <p>&copy; 2024 ProtectIT. All rights reserved.</p>
