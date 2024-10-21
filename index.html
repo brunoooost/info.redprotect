@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
     <style>
-        /* CSS compartido para todas las páginas */
         body {
             font-family: 'Roboto', sans-serif;
             margin: 0;
@@ -41,13 +40,21 @@
         nav a:hover {
             color: #DF5437;
         }
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1.5rem;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
         .hero {
             background: url('https://example.com/hero-image.jpg') no-repeat center center/cover;
             color: #fff;
             padding: 4rem 2rem;
             text-align: center;
             border-radius: 8px;
-            margin: 1rem 0;
+            margin-bottom: 1.5rem;
         }
         .hero h1 {
             font-size: 2rem;
@@ -95,18 +102,24 @@
             <h1>Meet our community</h1>
             <p>Learn, share, and grow in the world of cybersecurity with us</p>
         </div>
-        <section id="inicio">
-            <h2>Home</h2>
-            <p style="text-align: justify;">
-                Our community was born out of the shared passion of three students: 
-                <a href="https://www.linkedin.com/in/bruno-salvatella-teichman/" target="_blank" class="bold-link">bst04</a>, 
-                <a href="https://www.linkedin.com/in/vasile-gabriel-g-9468072b6/" target="_blank" class="bold-link">Gabriel Grigor</a>, and 
-                <a href="https://www.linkedin.com/in/aidan-c-924b382b0/" target="_blank" class="bold-link">Luu</a>.
-                United by our interest in the fascinating world of cybersecurity, we decided to create a space where we can learn, share knowledge, and grow together in this dynamic and crucial field.
-            </p>
-            <p style="text-align: justify;">In our community, you'll find valuable resources, from articles and tutorials to tools and discussions in our forum. We aim to foster a collaborative and supportive environment where everyone, from beginners to experts, can contribute and benefit.</p>
-            <p style="text-align: justify;">Join us and be part of a community that values digital security and information protection. Together, we can make cyberspace a safer place for everyone.</p>
-        </section>
+        <div class="container">
+            <section id="inicio">
+                <h2>Home</h2>
+                <p style="text-align: justify;">
+                    Our community was born out of the shared passion of three students: 
+                    <a href="https://www.linkedin.com/in/bruno-salvatella-teichman/" target="_blank" class="bold-link">bst04</a>, 
+                    <a href="https://www.linkedin.com/in/vasile-gabriel-g-9468072b6/" target="_blank" class="bold-link">Gabriel Grigor</a>, and 
+                    <a href="https://www.linkedin.com/in/aidan-c-924b382b0/" target="_blank" class="bold-link">Luu</a>.
+                    United by our interest in the fascinating world of cybersecurity, we decided to create a space where we can learn, share knowledge, and grow together in this dynamic and crucial field.
+                </p>
+                <p style="text-align: justify;">
+                    In our community, you'll find valuable resources, from articles and tutorials to tools and discussions in our forum. We aim to foster a collaborative and supportive environment where everyone, from beginners to experts, can contribute and benefit.
+                </p>
+                <p style="text-align: justify;">
+                    Join us and be part of a community that values digital security and information protection. Together, we can make cyberspace a safer place for everyone.
+                </p>
+            </section>
+        </div>
     </main>
     <footer>
         <p>&copy; 2024 ProtectIT. All rights reserved.</p>
