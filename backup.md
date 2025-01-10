@@ -66,11 +66,12 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
   - [Tutorials](#--tutorials)
   - [CTFs - Training](#--ctfs---training)
   - [Practice Webs](#-%EF%B8%8F-practice-webs)
-  - [Events](#--events)
-  - [Community](#--community)
   - [Open-Source Repositories](#--open-source-repositories)
   - [Learning Path](#-%EF%B8%8F-learning-path)
   - [Projects Based](#-%EF%B8%8F-projects-based)
+- [Social](#--social)
+  - [Events](#--events)
+  - [Community](#--community)
 - [Media](#--media)
   - [Podcasts](#-%EF%B8%8F-podcasts)
   - [Documentaries](#--documentaries)
@@ -1311,21 +1312,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Codeforces](https://codeforces.com)                | Problems Solving | Codeforces is a project joining people interested in and taking part in programming contests.         |
 | [DevChallenges](https://devchallenges.io/dashboard) | Challenges       | Platform to improve your coding skills through practical projects and build an outstanding portfolio. |
 
-### [↑](#-content) 🎤 Events
-
-| Event                                                                                                            | Description                                      |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [BSides Calendar](https://calendar.google.com/calendar/embed?src=bsidescalendar%40gmail.com&ctz=Europe%2FMadrid) | The calendar of BSides events arround the world. |
-
-
-
-### [↑](#-content) 👤 Community
-
-| Community                                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [RedProtect](https://brunoooost.github.io/info.redprotect/#inicio)   | Our community was born out of the shared passion of three students: [bst04](https://www.linkedin.com/in/bruno-salvatella-teichman/), [Gabriel Grigor](https://www.linkedin.com/in/vasile-gabriel-g-9468072b6/), and Luu. United by our interest in the fascinating world of cybersecurity, we decided to create a space where we can learn, share knowledge, and grow together in this dynamic and crucial field. |
-| [cybersources](https://discord.gg/HhjhQgnp54)                        | The community about this repository.                                                                                                                                                                                                                                                                                                                                                                              |
-| [Harden the World](https://cybersectools.com/tools/harden-the-world) | A community-driven project focused on developing security best practices and guidelines for configuring systems securely.                                                                                                                                                                                                                                                                                         |
 
 ### [↑](#-content) 📙 Open-Source Repositories
 
@@ -1365,17 +1351,36 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [CyberAcademy - Project Ideas](https://cybercademy.org/project-ideas/) | List of ideas for your cyber projects.       |
 
 
-## Media
+## [↑](#-content) Social
 
-## [↑](#-content) 🎙️ Podcasts
+### [↑](#-content) 🎤 Events
 
-| Podcasts                                                           | Language | Description                                                                                                                                                          |
+| Event                                                                                                            | Description                                      |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [BSides Calendar](https://calendar.google.com/calendar/embed?src=bsidescalendar%40gmail.com&ctz=Europe%2FMadrid) | The calendar of BSides events arround the world. |
+
+
+
+### [↑](#-content) 👤 Community
+
+| Community                                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [RedProtect](https://brunoooost.github.io/info.redprotect/#inicio)   | Our community was born out of the shared passion of three students: [bst04](https://www.linkedin.com/in/bruno-salvatella-teichman/), [Gabriel Grigor](https://www.linkedin.com/in/vasile-gabriel-g-9468072b6/), and Luu. United by our interest in the fascinating world of cybersecurity, we decided to create a space where we can learn, share knowledge, and grow together in this dynamic and crucial field. |
+| [cybersources](https://discord.gg/HhjhQgnp54)                        | The community about this repository.                                                                                                                                                                                                                                                                                                                                                                              |
+| [Harden the World](https://cybersectools.com/tools/harden-the-world) | A community-driven project focused on developing security best practices and guidelines for configuring systems securely.                                                                                                                                                                                                                                                                                         |
+
+
+## [↑](#-content) Media
+
+### [↑](#-content) 🎙️ Podcasts
+
+| Podcasts                                                           | Language | Description                                                                                                                                                         |
 | ------------------------------------------------------------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Tierra de Hackers](https://www.tierradehackers.com)               | Spanish  | Podcast recorded by Martin Vigo and Alexis Porros, they inform about all the news on the cybersecurity world.                                                        |
 | [ISC](https://isc.sans.edu/podcast.html)                           | English  | The ISC StormCast is a daily short-form podcast that provides a summary of current network security-related events.                                                  |
 | [Cyberwire Daily](https://thecyberwire.com/podcasts/daily-podcast) | English  | Published each weekday, the program also included interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world. |
 
-## [↑](#-content) 📺 Documentaries
+### [↑](#-content) 📺 Documentaries
 
 | Documentaries                                                                              | Genere                        | Year | Rating |
 | ------------------------------------------------------------------------------------------ | ----------------------------- | ---- | ------ |
@@ -1415,7 +1420,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-## [↑](#-content) 🖥️ TV Shows
+### [↑](#-content) 🖥️ TV Shows
 
 | Title                                                            | Genere                   | Year | Rating |
 | ---------------------------------------------------------------- | ------------------------ | ---- | ------ |
@@ -1437,7 +1442,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Westworld](https://www.imdb.com/title/tt0475784/)               | Drama - Mystery          | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)          | Thriller - Drama         | 2017 | 6.1/10 |
 
-## [↑](#-content) 📖 Books & Papers/Articles
+### [↑](#-content) 📖 Books & Papers/Articles
 
 | Documentaries                                                                              | Description |
 | ------------------------------------------------------------------------------------------ | ---------- |
