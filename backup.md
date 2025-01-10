@@ -77,7 +77,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
   - [Documentaries](#--documentaries)
   - [Books & Papers/Articles](#--books--papersarticles)
   - [TV Shows](#-%EF%B8%8F-tv-shows)
-  - [Youtube Channels](#-youtube-channels)
+  - [Youtube Channels](#--youtube-channels)
 - [Collaborate](#--collaborate)
 - [Credits](#--credits)
 
