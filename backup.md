@@ -1351,7 +1351,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [CyberAcademy - Project Ideas](https://cybercademy.org/project-ideas/) | List of ideas for your cyber projects.       |
 
 
-## [↑](#-content) Social
+## [↑](#-content) 🗣️ Social
 
 ### [↑](#-content) 🎤 Events
 
@@ -1370,7 +1370,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Harden the World](https://cybersectools.com/tools/harden-the-world) | A community-driven project focused on developing security best practices and guidelines for configuring systems securely.                                                                                                                                                                                                                                                                                         |
 
 
-## [↑](#-content) Media
+## [↑](#-content) 📺 Media
 
 ### [↑](#-content) 🎙️ Podcasts
 
