@@ -67,14 +67,15 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
   - [CTFs - Training](#--ctfs---training)
   - [Practice Webs](#-%EF%B8%8F-practice-webs)
   - [Events](#--events)
-  - [Podcasts](#-%EF%B8%8F-podcasts)
   - [Community](#--community)
-  - [Documentaries](#--documentaries)
-  - [Books & Papers/Articles](#--books--papersarticles)
-  - [TV Shows](#-%EF%B8%8F-tv-shows)
   - [Open-Source Repositories](#--open-source-repositories)
   - [Learning Path](#-%EF%B8%8F-learning-path)
   - [Projects Based](#-%EF%B8%8F-projects-based)
+- [Media](#--media)
+  - [Podcasts](#-%EF%B8%8F-podcasts)
+  - [Documentaries](#--documentaries)
+  - [Books & Papers/Articles](#--books--papersarticles)
+  - [TV Shows](#-%EF%B8%8F-tv-shows)
 - [Collaborate](#--collaborate)
 - [Credits](#--credits)
 
@@ -1310,11 +1311,61 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Codeforces](https://codeforces.com)                | Problems Solving | Codeforces is a project joining people interested in and taking part in programming contests.         |
 | [DevChallenges](https://devchallenges.io/dashboard) | Challenges       | Platform to improve your coding skills through practical projects and build an outstanding portfolio. |
 
-## [↑](#-content) 🎤 Events
+### [↑](#-content) 🎤 Events
 
 | Event                                                                                                            | Description                                      |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [BSides Calendar](https://calendar.google.com/calendar/embed?src=bsidescalendar%40gmail.com&ctz=Europe%2FMadrid) | The calendar of BSides events arround the world. |
+
+
+
+### [↑](#-content) 👤 Community
+
+| Community                                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [RedProtect](https://brunoooost.github.io/info.redprotect/#inicio)   | Our community was born out of the shared passion of three students: [bst04](https://www.linkedin.com/in/bruno-salvatella-teichman/), [Gabriel Grigor](https://www.linkedin.com/in/vasile-gabriel-g-9468072b6/), and Luu. United by our interest in the fascinating world of cybersecurity, we decided to create a space where we can learn, share knowledge, and grow together in this dynamic and crucial field. |
+| [cybersources](https://discord.gg/HhjhQgnp54)                        | The community about this repository.                                                                                                                                                                                                                                                                                                                                                                              |
+| [Harden the World](https://cybersectools.com/tools/harden-the-world) | A community-driven project focused on developing security best practices and guidelines for configuring systems securely.                                                                                                                                                                                                                                                                                         |
+
+### [↑](#-content) 📙 Open-Source Repositories
+
+| Title                                                                                   | Description                                                 |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [OWASP](https://github.com/OWASP)                                                       | Tools and resources for web application security.           |
+| [Mitre ATT&CK](https://github.com/mitre/)                                               | Adversarial tactics and techniques.                         |
+| [TheHive Project](https://github.com/TheHive-Project)                                   | Incident response tools.                                    |
+| [OSINT](https://github.com/sinwindie/OSINT)                                             | List of tools OSINT.                                        |
+| [Awesome OSINT](https://github.com/jivoi/awesome-osint)                                 | Awesome list of tools OSINT.                                |
+| [awesome-osint-for-everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) | Awesome for some tools OSINT                                |
+| [Playbooks](https://github.com/socfortress/Playbooks)                                   | Repository of playbooks.                                    |
+| [CyberSecTools](https://cybersectools.com/)                                             | The Largest Hub of Cybersecurity Tools                      |
+| [awesome-hacking](https://github.com/carpedm20/awesome-hacking)                         | Awesome list of hacking.                                    |
+| [awsome-CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)                         | A curated list of CVE PoCs.                                 |
+| [awesome-YARA](https://github.com/InQuest/awesome-yara)                                 | A curated list of awesome YARA rules, tools, and resources. |
+| [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)        | OSINT Tools for the Dark Web                                |
+| [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty)                     | Awesome list of bug bounty                                  |
+| [awesome-red-team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/tree/master) | Awesome Red Team                                            |
+| [the-hacker-roadmap](https://github.com/sundowndev/hacker-roadmap/tree/master)          | Roadmap for hacker                                          |
+| [the-osint-toolbox](https://github.com/The-Osint-Toolbox/Email-Username-OSINT)          | List of tools for email and username search                 |
+
+## [↑](#-content) 🛣️ Learning Path
+
+| Roadmap                                                                        | Description                                                                            |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| [Cybersecurity](https://roadmap.sh/cyber-security)                             | Learn to become a Cyber Security Expert.                                               |
+| [Linux](https://roadmap.sh/linux)                                              | Step by step guide to learn Linux in 2024.                                             |
+| [Ethical Hacking](https://roadmap.sh/r/ethical-hacking-yyvh9)                  | Community driven roadmaps, articles and guides for developers to grow in their career. |
+| [the-hacker-roadmap](https://github.com/sundowndev/hacker-roadmap/tree/master) | Roadmap for hacker                                                                     |
+
+## [↑](#-content) 🖌️ Projects Based
+
+| Projects                                                               | Description                                  |
+| ---------------------------------------------------------------------- | -------------------------------------------- |
+| [Fynd Academy](https://www.fynd.academy/blog/cyber-security-projects)  | 30 Cyber Projects on 2025 (With Source Code. |
+| [CyberAcademy - Project Ideas](https://cybercademy.org/project-ideas/) | List of ideas for your cyber projects.       |
+
+
+## Media
 
 ## [↑](#-content) 🎙️ Podcasts
 
@@ -1323,14 +1374,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Tierra de Hackers](https://www.tierradehackers.com)               | Spanish  | Podcast recorded by Martin Vigo and Alexis Porros, they inform about all the news on the cybersecurity world.                                                        |
 | [ISC](https://isc.sans.edu/podcast.html)                           | English  | The ISC StormCast is a daily short-form podcast that provides a summary of current network security-related events.                                                  |
 | [Cyberwire Daily](https://thecyberwire.com/podcasts/daily-podcast) | English  | Published each weekday, the program also included interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world. |
-
-## [↑](#-content) 👤 Community
-
-| Community                                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [RedProtect](https://brunoooost.github.io/info.redprotect/#inicio)   | Our community was born out of the shared passion of three students: [bst04](https://www.linkedin.com/in/bruno-salvatella-teichman/), [Gabriel Grigor](https://www.linkedin.com/in/vasile-gabriel-g-9468072b6/), and Luu. United by our interest in the fascinating world of cybersecurity, we decided to create a space where we can learn, share knowledge, and grow together in this dynamic and crucial field. |
-| [cybersources](https://discord.gg/HhjhQgnp54)                        | The community about this repository.                                                                                                                                                                                                                                                                                                                                                                              |
-| [Harden the World](https://cybersectools.com/tools/harden-the-world) | A community-driven project focused on developing security best practices and guidelines for configuring systems securely.                                                                                                                                                                                                                                                                                         |
 
 ## [↑](#-content) 📺 Documentaries
 
@@ -1370,23 +1413,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [War for the Web](https://www.imdb.com/title/tt2390367/)                                   | Documentary                   | 2015 | 7.4/10 |
 | [We Are Legion: The Story of the Hacktivists](https://www.imdb.com/title/tt2177843/)       | Documentary                   | 2012 | 7.3/10 |
 
-## [↑](#-content) 📖 Books & Papers/Articles
 
-| Documentaries                                                                              | Description |
-| ------------------------------------------------------------------------------------------ | ---------- |
-| [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)                                                                                 | Explores modern red teaming methodologies and how they evolve to meet sophisticated threats.                      |
-| [Targeted Cyber Attack](https://www.amazon.com/Targeted-Cyber-Attacks-Multi-staged-Exploits/dp/0128006048)                                                                                | Offers insights into planning, executing, and defending against cyberattacks.                                     |
-| [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)                              | Guides readers through techniques to breach highly secure networks.                                               |
-| [Social Engineers' Playbook: Practical Pretexting](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/)                                                  | A practical manual focusing on social engineering tactics and pretexting scenarios.                               |
-| [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2)                                 | An essential resource for penetration testers, covering advanced tactics and strategies.                          |
-| [How to Hack Like a PORNSTAR: A Step-by-Step Process for Breaking into a BANK](<[https://www.amazon.com](https://www.amazon.com/How-Hack-Like-PORNSTAR-breaking-ebook/dp/B01MTDLGQ)>)     | A step-by-step narrative illustrating hacking methods for breaching financial institutions.                       |
-| [**Penetration Testing: A Hands-On Introduction to Hacking**](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)                                        | A comprehensive guide introducing penetration testing techniques and tools, designed for beginners.               |
-| [**Kali Linux Revealed**](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605) - [PDF](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) |                                                                                                                   | The official guide to mastering Kali Linux, including installation, configuration, and usage for security professionals. |
-| [**Blue Team Field Manual (BTFM)**](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)                                                                                     | A reference guide for defensive security operations, offering tools and techniques to protect networks.           |
-| [**Cybersecurity - Attack and Defense Strategies**](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/1788475291)                                        | Covers both offensive and defensive strategies for protecting infrastructure against cyber threats.               |
-| [**NMAP Network Scanning: Official Discovery**](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717)                                                            | Official documentation for using Nmap for network discovery and vulnerability scanning.                           |
-| [**Social Engineering: The Art of Human Hacking**](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)                                                             | Explores the psychological and technical aspects of social engineering and how to protect against it.             |
-| [**Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous**](https://www.amazon.com/Incognito-Toolkit-Communicating-Publishing-Researching/dp/0985049146)           | A guide to tools and techniques for maintaining anonymity online while communicating, publishing, or researching. |
 
 ## [↑](#-content) 🖥️ TV Shows
 
@@ -1410,42 +1437,24 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Westworld](https://www.imdb.com/title/tt0475784/)               | Drama - Mystery          | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)          | Thriller - Drama         | 2017 | 6.1/10 |
 
-## [↑](#-content) 📙 Open-Source Repositories
+## [↑](#-content) 📖 Books & Papers/Articles
 
-| Title                                                                                   | Description                                                 |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [OWASP](https://github.com/OWASP)                                                       | Tools and resources for web application security.           |
-| [Mitre ATT&CK](https://github.com/mitre/)                                               | Adversarial tactics and techniques.                         |
-| [TheHive Project](https://github.com/TheHive-Project)                                   | Incident response tools.                                    |
-| [OSINT](https://github.com/sinwindie/OSINT)                                             | List of tools OSINT.                                        |
-| [Awesome OSINT](https://github.com/jivoi/awesome-osint)                                 | Awesome list of tools OSINT.                                |
-| [awesome-osint-for-everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) | Awesome for some tools OSINT                                |
-| [Playbooks](https://github.com/socfortress/Playbooks)                                   | Repository of playbooks.                                    |
-| [CyberSecTools](https://cybersectools.com/)                                             | The Largest Hub of Cybersecurity Tools                      |
-| [awesome-hacking](https://github.com/carpedm20/awesome-hacking)                         | Awesome list of hacking.                                    |
-| [awsome-CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)                         | A curated list of CVE PoCs.                                 |
-| [awesome-YARA](https://github.com/InQuest/awesome-yara)                                 | A curated list of awesome YARA rules, tools, and resources. |
-| [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)        | OSINT Tools for the Dark Web                                |
-| [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty)                     | Awesome list of bug bounty                                  |
-| [awesome-red-team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/tree/master) | Awesome Red Team                                            |
-| [the-hacker-roadmap](https://github.com/sundowndev/hacker-roadmap/tree/master)          | Roadmap for hacker                                          |
-| [the-osint-toolbox](https://github.com/The-Osint-Toolbox/Email-Username-OSINT)          | List of tools for email and username search                 |
+| Documentaries                                                                              | Description |
+| ------------------------------------------------------------------------------------------ | ---------- |
+| [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)                                                                                 | Explores modern red teaming methodologies and how they evolve to meet sophisticated threats.                      |
+| [Targeted Cyber Attack](https://www.amazon.com/Targeted-Cyber-Attacks-Multi-staged-Exploits/dp/0128006048)                                                                                | Offers insights into planning, executing, and defending against cyberattacks.                                     |
+| [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)                              | Guides readers through techniques to breach highly secure networks.                                               |
+| [Social Engineers' Playbook: Practical Pretexting](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/)                                                  | A practical manual focusing on social engineering tactics and pretexting scenarios.                               |
+| [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2)                                 | An essential resource for penetration testers, covering advanced tactics and strategies.                          |
+| [How to Hack Like a PORNSTAR: A Step-by-Step Process for Breaking into a BANK](<[https://www.amazon.com](https://www.amazon.com/How-Hack-Like-PORNSTAR-breaking-ebook/dp/B01MTDLGQ)>)     | A step-by-step narrative illustrating hacking methods for breaching financial institutions.                       |
+| [**Penetration Testing: A Hands-On Introduction to Hacking**](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)                                        | A comprehensive guide introducing penetration testing techniques and tools, designed for beginners.               |
+| [**Kali Linux Revealed**](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605) - [PDF](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) |                                                                                                                   | The official guide to mastering Kali Linux, including installation, configuration, and usage for security professionals. |
+| [**Blue Team Field Manual (BTFM)**](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)                                                                                     | A reference guide for defensive security operations, offering tools and techniques to protect networks.           |
+| [**Cybersecurity - Attack and Defense Strategies**](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/1788475291)                                        | Covers both offensive and defensive strategies for protecting infrastructure against cyber threats.               |
+| [**NMAP Network Scanning: Official Discovery**](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717)                                                            | Official documentation for using Nmap for network discovery and vulnerability scanning.                           |
+| [**Social Engineering: The Art of Human Hacking**](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)                                                             | Explores the psychological and technical aspects of social engineering and how to protect against it.             |
+| [**Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous**](https://www.amazon.com/Incognito-Toolkit-Communicating-Publishing-Researching/dp/0985049146)           | A guide to tools and techniques for maintaining anonymity online while communicating, publishing, or researching. |
 
-## [↑](#-content) 🛣️ Learning Path
-
-| Roadmap                                                                        | Description                                                                            |
-| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| [Cybersecurity](https://roadmap.sh/cyber-security)                             | Learn to become a Cyber Security Expert.                                               |
-| [Linux](https://roadmap.sh/linux)                                              | Step by step guide to learn Linux in 2024.                                             |
-| [Ethical Hacking](https://roadmap.sh/r/ethical-hacking-yyvh9)                  | Community driven roadmaps, articles and guides for developers to grow in their career. |
-| [the-hacker-roadmap](https://github.com/sundowndev/hacker-roadmap/tree/master) | Roadmap for hacker                                                                     |
-
-## [↑](#-content) 🖌️ Projects Based
-
-| Projects                                                               | Description                                  |
-| ---------------------------------------------------------------------- | -------------------------------------------- |
-| [Fynd Academy](https://www.fynd.academy/blog/cyber-security-projects)  | 30 Cyber Projects on 2025 (With Source Code. |
-| [CyberAcademy - Project Ideas](https://cybercademy.org/project-ideas/) | List of ideas for your cyber projects.       |
 
 ## [↑](#-content) 💬 Collaborate
 
