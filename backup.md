@@ -72,7 +72,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 - [Social](#-%EF%B8%8F-social)
   - [Events](#--events)
   - [Community](#--community)
-- [Media](#-media)
+- [Media](#--media)
   - [Podcasts](#-%EF%B8%8F-podcasts)
   - [Documentaries](#--documentaries)
   - [Books & Papers/Articles](#--books--papersarticles)
