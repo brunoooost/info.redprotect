@@ -77,6 +77,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
   - [Documentaries](#--documentaries)
   - [Books & Papers/Articles](#--books--papersarticles)
   - [TV Shows](#-%EF%B8%8F-tv-shows)
+  - [Youtube Channels](#-youtube-channels)
 - [Collaborate](#--collaborate)
 - [Credits](#--credits)
 
@@ -1419,6 +1420,25 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [We Are Legion: The Story of the Hacktivists](https://www.imdb.com/title/tt2177843/)       | Documentary                   | 2012 | 7.3/10 |
 
 
+### [↑](#-content) 📖 Books & Papers/Articles
+
+| Documentaries                                                                              | Description |
+| ------------------------------------------------------------------------------------------ | ---------- |
+| [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)                                                                                 | Explores modern red teaming methodologies and how they evolve to meet sophisticated threats.                      |
+| [Targeted Cyber Attack](https://www.amazon.com/Targeted-Cyber-Attacks-Multi-staged-Exploits/dp/0128006048)                                                                                | Offers insights into planning, executing, and defending against cyberattacks.                                     |
+| [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)                              | Guides readers through techniques to breach highly secure networks.                                               |
+| [Social Engineers' Playbook: Practical Pretexting](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/)                                                  | A practical manual focusing on social engineering tactics and pretexting scenarios.                               |
+| [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2)                                 | An essential resource for penetration testers, covering advanced tactics and strategies.                          |
+| [How to Hack Like a PORNSTAR: A Step-by-Step Process for Breaking into a BANK](<[https://www.amazon.com](https://www.amazon.com/How-Hack-Like-PORNSTAR-breaking-ebook/dp/B01MTDLGQ)>)     | A step-by-step narrative illustrating hacking methods for breaching financial institutions.                       |
+| [**Penetration Testing: A Hands-On Introduction to Hacking**](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)                                        | A comprehensive guide introducing penetration testing techniques and tools, designed for beginners.               |
+| [**Kali Linux Revealed**](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605) - [PDF](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) |                                                                                                                   | The official guide to mastering Kali Linux, including installation, configuration, and usage for security professionals. |
+| [**Blue Team Field Manual (BTFM)**](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)                                                                                     | A reference guide for defensive security operations, offering tools and techniques to protect networks.           |
+| [**Cybersecurity - Attack and Defense Strategies**](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/1788475291)                                        | Covers both offensive and defensive strategies for protecting infrastructure against cyber threats.               |
+| [**NMAP Network Scanning: Official Discovery**](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717)                                                            | Official documentation for using Nmap for network discovery and vulnerability scanning.                           |
+| [**Social Engineering: The Art of Human Hacking**](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)                                                             | Explores the psychological and technical aspects of social engineering and how to protect against it.             |
+| [**Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous**](https://www.amazon.com/Incognito-Toolkit-Communicating-Publishing-Researching/dp/0985049146)           | A guide to tools and techniques for maintaining anonymity online while communicating, publishing, or researching. |
+
+
 
 ### [↑](#-content) 🖥️ TV Shows
 
@@ -1442,24 +1462,12 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Westworld](https://www.imdb.com/title/tt0475784/)               | Drama - Mystery          | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)          | Thriller - Drama         | 2017 | 6.1/10 |
 
-### [↑](#-content) 📖 Books & Papers/Articles
 
-| Documentaries                                                                              | Description |
+### [↑](#-content) 🎥 Youtube Channels
+
+| Channels                                                                              | Description |
 | ------------------------------------------------------------------------------------------ | ---------- |
-| [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)                                                                                 | Explores modern red teaming methodologies and how they evolve to meet sophisticated threats.                      |
-| [Targeted Cyber Attack](https://www.amazon.com/Targeted-Cyber-Attacks-Multi-staged-Exploits/dp/0128006048)                                                                                | Offers insights into planning, executing, and defending against cyberattacks.                                     |
-| [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)                              | Guides readers through techniques to breach highly secure networks.                                               |
-| [Social Engineers' Playbook: Practical Pretexting](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/)                                                  | A practical manual focusing on social engineering tactics and pretexting scenarios.                               |
-| [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2)                                 | An essential resource for penetration testers, covering advanced tactics and strategies.                          |
-| [How to Hack Like a PORNSTAR: A Step-by-Step Process for Breaking into a BANK](<[https://www.amazon.com](https://www.amazon.com/How-Hack-Like-PORNSTAR-breaking-ebook/dp/B01MTDLGQ)>)     | A step-by-step narrative illustrating hacking methods for breaching financial institutions.                       |
-| [**Penetration Testing: A Hands-On Introduction to Hacking**](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)                                        | A comprehensive guide introducing penetration testing techniques and tools, designed for beginners.               |
-| [**Kali Linux Revealed**](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605) - [PDF](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) |                                                                                                                   | The official guide to mastering Kali Linux, including installation, configuration, and usage for security professionals. |
-| [**Blue Team Field Manual (BTFM)**](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)                                                                                     | A reference guide for defensive security operations, offering tools and techniques to protect networks.           |
-| [**Cybersecurity - Attack and Defense Strategies**](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/1788475291)                                        | Covers both offensive and defensive strategies for protecting infrastructure against cyber threats.               |
-| [**NMAP Network Scanning: Official Discovery**](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717)                                                            | Official documentation for using Nmap for network discovery and vulnerability scanning.                           |
-| [**Social Engineering: The Art of Human Hacking**](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)                                                             | Explores the psychological and technical aspects of social engineering and how to protect against it.             |
-| [**Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous**](https://www.amazon.com/Incognito-Toolkit-Communicating-Publishing-Researching/dp/0985049146)           | A guide to tools and techniques for maintaining anonymity online while communicating, publishing, or researching. |
-
+| [NetworkChuck](https://www.youtube.com/user/NetworkChuck) | NetworkChuck is a popular YouTuber and educator known for his engaging tutorials on networking, cybersecurity, and IT certifications. |
 
 ## [↑](#-content) 💬 Collaborate
 
