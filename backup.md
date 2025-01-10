@@ -69,7 +69,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
   - [Open-Source Repositories](#--open-source-repositories)
   - [Learning Path](#-%EF%B8%8F-learning-path)
   - [Projects Based](#-%EF%B8%8F-projects-based)
-- [Social](#-social)
+- [Social](#-%EF%B8%8F-social)
   - [Events](#--events)
   - [Community](#--community)
 - [Media](#-media)
