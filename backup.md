@@ -17,6 +17,93 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 ## 📋 Content
 
+OSINT
+* OSINT
+* Username Search
+* Email Search
+* GEOINT
+* Photo/Images
+* Social Networks
+    * Instagram
+    * LinkedIn
+    * TikTok
+    * OnlyFans
+    * Discord
+    * Twitch
+    * Tinder
+
+Pentesting
+* Post Exploitation 
+* Deobfuscators 
+* Decompilers 
+* Disassembler and Debuggers 
+* Network 
+* RFID 
+* Bug Bounty
+
+Web Attack
+* Web
+* Practice Webs
+
+Cryptography
+* Cryptography
+* Steganographic
+* Steganalysis
+
+Forensic & Malware Analysis
+* Forensic
+* Hex Editors
+* Execution Logging and Tracing
+* Malware Analysis
+
+Anonymity and Security Tools
+* Delete Your Trace 
+* Password Managers 
+* VPNs 
+
+Learning & Training Resources
+* Learning
+* Resources
+* Courses
+* Certifications
+* Tutorials
+* CTFs - Training
+* Open-Source Repositories
+* Learning Path
+* Projects Based
+
+Social and Media
+* Events
+* Community
+* Media
+* Podcasts
+* Documentaries
+* Books & Papers/Articles
+* TV Shows
+* YouTube Channels
+
+Utility & Miscellaneous
+* Utility
+* Miscellaneous
+* News
+* Search Engines
+* DNS/IP
+* System 
+
+AI Tools
+* AI Tools
+    * AI Programming
+    * AI Cybersecurity
+
+Specialized Tools
+* Cryptanalysis Tools
+* Playbooks
+* SIEM
+
+Hardware & Operating Systems
+* Operating Systems
+* Hardware Tools
+
 - [Tools](#-%EF%B8%8F-tools)
   - [Utility](#1--utility)
   - [Miscellaneous](#2--miscellaneous)
@@ -89,34 +176,10 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 - [Collaborate](#--collaborate)
 - [Credits](#--credits)
 
-## [↑](#-content) 🛠️ Tools
 
-#### 1. [↑](#-content) Utility
 
-| **Tool**                                                                                           | **Description**                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)                                          | Password recovery utility for cracking hashes.                                                                                                                                              |
-| [BrowserLeaks](https://browserleaks.com)                                                           | Suite of tools to test the security and privacy of your web browser.                                                                                                                        |
-| [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)                     | Check if your email address or domain was compromised in global Infostealer malware attacks                                                                                                 |
-| [CavalierGPT - The First Comprehensive Infostealers AI Bot](http://www.hudsonrock.com/cavaliergpt) | CavalierGPT retrieves and curates information from various Hudson Rock endpoints, enabling investigators to delve deeper into cybersecurity threats with unprecedented ease and efficiency. |
-| [Gravwell Community Edition](https://www.gravwell.io/gravwell-community-edition-plan)              | Full featured unstructured log SIEM/Security Data Lake with raw binary/pcap support                                                                                                         |
-| [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion)                                    | Crawls and monitors .onion sites for specified keywords or changes.                                                                                                                         |
-| [OnionIngestor](https://github.com/danieleperera/OnionIngestor)                                    | Gathers data from Tor hidden services for analysis or intelligence purposes.                                                                                                                |
-| [DumpsterDiver](https://github.com/securing/DumpsterDiver)                                                           | DumpsterDiver is a tool, which can analyze big volumes of data in search of hardcoded secrets like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords.                                                                                                                        |
 
-#### 2. [↑](#-content) Miscellaneous
-
-| **Tool**                                                                                                                                               | **Description**                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| [GetAllURLs (gau)](https://cybersectools.com/tools/getallurls-gau)                                                                                     | Collects existing URLs for a domain from sources like Wayback Machine, URLScan, and AlienVault. |
-| [Guardey](https://cybersectools.com/tools/guardey)                                                                                                     | Offers gamified training and content for improving cybersecurity awareness.                     |
-| [NightShade](https://cybersectools.com/tools/nightshade)                                                                                               | Framework for designing and executing CTF challenges with a focus on security.                  |
-| [Smali/Baksmali mode for Emacs](https://cybersectools.com/tools/smali-baksmali-mode-for-emacs)                                                         | Improves Emacs usability for reading Smali code, aiding Android reverse engineering.            |
-| [Ctf-writeups](https://cybersectools.com/tools/ctf-writeups)                                                                                           | Detailed explanations and solutions for Capture the Flag (CTF) challenges.                      |
-| [Secrets of a High Performance Security-Focused Agile Team](https://cybersectools.com/tools/secrets-of-a-high-performance-security-focused-agile-team) | Best practices for incorporating security into agile development processes.                     |
-| [Dalvik Opcodes](https://cybersectools.com/tools/dalvik-opcodes)                                                                                       | A guide to Dalvik VM instructions, useful for analyzing Android applications.                   |
-| [AWS Config](https://cybersectools.com/tools/aws-config)                                                                                               | Evaluates and audits AWS resource configurations for compliance and security.                   |
-| [DeepDarkCTI](https://github.com/fastfire/deepdarkCTI)                                                                                                 | Cyber threat intelligence tool for monitoring and analyzing the dark web.                       |
+## [↑](#-content) OSINT
 
 #### 3. [↑](#-content) OSINT
 
@@ -137,7 +200,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [LensoAI](https://lenso.ai/en)                                                                                                                         | AI-driven platform for reverse image searching.                                                 |
 | [OSINT Investigation Assistant](https://lambda.black/osint.html)| An OSINT Investigation Assistant designed to help with people investigations |
 
-##### 3.1 [↑](#-content) Username Search
+#### 3.1 [↑](#-content) Username Search
 
 
 | **Tool**                                                                           | **Description**                                                              |
@@ -164,9 +227,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Social Searcher](https://social-searcher.com) | OSINT tool to search social media platforms for public information.                            |
 | [UnAvatar](https://unavatar.io)     | Discover avatars tied to an email address across different platforms.                         |
 
-
-
-##### 3.2 [↑](#-content) Email Search
+#### 3.2 [↑](#-content) Email Search
 
 
 | Tool                                | Description                                                                                  |
@@ -199,7 +260,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-##### 3.3 [↑](#-content) GEOINT
+#### 3.3 [↑](#-content) GEOINT
 
 | Tools                                                                                                                       | Description                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -250,7 +311,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-##### 3.4 [↑](#-content) Photo / Images
+#### 3.4 [↑](#-content) Photo / Images
 
 | Tools                                                                          | Description                                                                                                                                      |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -259,9 +320,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Exiftool](https://github.com/exiftool/exiftool)     | A terminal based tool for extracting images meta data. |
 
 
-##### 4. [↑](#-content) Social Networks
+#### 4. [↑](#-content) Social Networks
 
-##### 4.1 [↑](#-content) Instagram
+#### 4.1 [↑](#-content) Instagram
 
 | Tools                                                                                                          | Description                                                                    |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -314,7 +375,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Flufi](https://flufi.me/)                                                                                     | A tool for exploring public stories, posts, reels, tags, followers, and more.. |
 | [Find Instagram User ID](https://findinstagramuserid.com/)                                                     | A tool to find the Instagram user ID for any profile.                          |
 
-##### 4.2 [↑](#-content) Linkedin
+#### 4.2 [↑](#-content) Linkedin
 
 | Tools                                                                                               | Description                                |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
@@ -431,7 +492,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [zoosk](https://www.zoosk.com)                     | Dating site with a behavioral matchmaking algorithm.           |
 
 
-#### 4.8 [↑](#-content) Reddit
+### 4.8 [↑](#-content) Reddit
 
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
@@ -442,186 +503,10 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-#### 5. [↑](#-content) AI Tools
 
-##### 5.1 [↑](#-content) AI Programming
+## 2. [↑](#-content) Pentesting
 
-| Tool                                                  | Description                                                                                                                                                                                                           |
-| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Cursor](https://cursor.sh/)                          | Function: Development environment focused on seamless AI interaction in code. Less known than Copilot but highly valued for assisted workflows. Advantage: Strong real-time AI/code collaboration integration.        |
-| [WindSurf](https://www.windsurf.io/)                  | Function: Documentation-focused completion and search system, enabling efficient explanation and navigation of complex projects. Advantage: Simplifies code understanding and exploration, useful for large projects. |
-| [Bolt](https://boltai.com/)                           | Function: Fast and minimalist code completion, optimized for speed and specific contexts. Advantage: Focuses on local performance rather than cloud solutions.                                                        |
-| [GitHub Copilot](https://github.com/features/copilot) | Function: Custom code generation powered by GPT-4 (or similar). Advantage: Perfect for a broad audience, though sometimes lacks advanced customization.                                                               |
-| [Tabnine](https://www.tabnine.com/)                   | Function: Uses AI models for local or cloud-based suggestions. Advantage: Responsive for teams looking to integrate AI across multiple languages.                                                                     |
-| [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources (like cybersources but with ai)|
-
-
-##### 5.2 [↑](#-content) AI Cybersecurity
-
-| Tool                                               | Description                                                                                                                                                                                       |
-| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Darktrace](https://www.darktrace.com/)            | Function: Real-time threat detection using machine learning algorithms. Advantage: Identifies unusual network behaviors to prevent cyberattacks before they occur.                                |
-| [CrowdStrike Falcon](https://www.crowdstrike.com/) | Function: AI-based Endpoint Protection Platform. Advantage: Offers proactive defense with advanced malware detection and rapid incident response.                                                 |
-| [Vectra AI](https://www.vectra.ai/)                | Function: Network traffic analysis for detecting internal and external threats. Advantage: Focuses on detecting complex attacks like lateral movements or data exfiltration.                      |
-| [Cynet 360](https://www.cynet.com/)                | Function: All-in-one security platform combining threat detection, incident response, and automation. Advantage: Particularly suitable for small businesses with limited cybersecurity resources. |
-| [Reveelium](https://www.alsego.com/reveelium/)     | Function: Anomaly detection and event correlation in information systems. Advantage: Ideal for identifying unusual behavior in logs of large organizations.     |
-| [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources.|
-| [PentestGPT](https://pentestgpt.ai/)| PentestGPT provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly.|
-
-
-#### 6. [↑](#-content) News
-
-| Tools                                               | Description                                                                                                                                                      |
-| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [WolrdEinnwes](https://world.einnews.com)           | News and search engine tools.                                                                                                                                    |
-| [IT Security Guru](https://www.itsecurityguru.org/) | IT Security Guru is a top resource for the latest cybersecurity news, covering threats, data breaches, and expert insights to help you stay informed and secure. |
-
-#### 7. [↑](#-content) Search Engines
-
-| Tools                                                                | Description                                                                                                                                                                                                                                           |
-| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [True People Search](https://truepeoplesearch.net)                   | Search for people's information.                                                                                                                                                                                                                      |
-| [Webmii](https://webmii.com)                                         | Aggregate search for personal information.                                                                                                                                                                                                            |
-| [Usa-Oficial](https://usa-official.com)                              | Official USA search tools.                                                                                                                                                                                                                            |
-| [Ussearch](https://ussearch.com)                                     | Search for people in the USA.                                                                                                                                                                                                                         |
-| [ThatsThem](https://thatsthem.com)                                   | Comprehensive search for personal information.                                                                                                                                                                                                        |
-| [Shodan Search](https://www.shodan.io)                               | Search engine for Internet-connected devices.                                                                                                                                                                                                         |
-| [Maltego](https://www.maltego.com)                                   | Tool for link analysis and data visualization.                                                                                                                                                                                                        |
-| [Spiderfoot](https://github.com/smicallef/spiderfoot)                | An OSINT automation tool.                                                                                                                                                                                                                             |
-| [Google Advanced Search](https://www.google.com/advanced_search)     | A tool to filter and refine search results based on specific needs.                                                                                                                                                                                   |
-| [Google Scholar](https://scholar.google.com)                         | Search engine for scholarly articles, theses, books, and other academic resources.                                                                                                                                                                    |
-| [Bing](https://www.bing.com)                                         | Microsoft's search engine with intelligent features and integrated services.                                                                                                                                                                          |
-| [MetaGer](https://metager.org)                                       | Privacy-focused search engine combining results from multiple indexes.                                                                                                                                                                                |
-| [DuckDuckGo](https://duckduckgo.com)                                 | Privacy-oriented search engine that doesn't track user activity.                                                                                                                                                                                      |
-| [Startpage](https://www.startpage.com)                               | Privacy-friendly search engine offering anonymous browsing.                                                                                                                                                                                           |
-| [Swisscows](https://swisscows.com)                                   | Anonymous search engine that protects user privacy and filters inappropriate content.                                                                                                                                                                 |
-| [Qwant](https://www.qwant.com)                                       | Privacy-respecting search engine with a European origin.                                                                                                                                                                                              |
-| [Ecosia](https://www.ecosia.org)                                     | Eco-friendly search engine that uses ad revenue to plant trees worldwide.                                                                                                                                                                             |
-| [Mojeek](https://www.mojeek.com)                                     | Independent search engine with a no-tracking policy.                                                                                                                                                                                                  |
-| [Brave Search](https://search.brave.com)                             | Privacy-centric search engine integrated with the Brave browser.                                                                                                                                                                                      |
-| [Yahoo Search](https://search.yahoo.com)                             | Yahoo's search engine offering web, image, and video search.                                                                                                                                                                                          |
-| [Baidu](https://www.baidu.com)                                       | China's leading search engine.                                                                                                                                                                                                                        |
-| [Dogpile](https://www.dogpile.com)                                   | Metasearch engine that aggregates results from multiple search engines.                                                                                                                                                                               |
-| [Million Short](https://millionshort.com)                            | A search engine that filters out top-ranked websites for deeper web discovery.                                                                                                                                                                        |
-| [MetaCrawler (Zoo Search)](https://www.metacrawler.com)              | Combines results from multiple search engines into a unified format.                                                                                                                                                                                  |
-| [Carrot2](https://search.carrot2.org)                                | Organizes search results into topic-based clusters for better navigation.                                                                                                                                                                             |
-| [Ask](https://www.ask.com)                                           | Combines a search engine with a news feed.                                                                                                                                                                                                            |
-| [Search Engines Index](https://www.searchengineindex.com)            | Directory of search engines for different countries worldwide.                                                                                                                                                                                        |
-| [CachedViews](https://www.cachedviews.com)                           | Access cached versions of web pages from various sources.                                                                                                                                                                                             |
-| [LibGen](https://libgen.rs)                                          | The largest free digital library of books.                                                                                                                                                                                                            |
-| [2lingual](https://www.2lingual.com)                                 | Allows simultaneous Google searches in two languages.                                                                                                                                                                                                 |
-| [IntelligenceX](https://intelx.io)                                   | Search Tor, I2P, data leaks, domains, and emails.                                                                                                                                                                                                     |
-| [Censys](https://censys.io)                                          | Assessing attack surface for internet-connected devices.                                                                                                                                                                                              |
-| [Binary Edge](https://www.binaryedge.io)                             | Scans the internet for threat intelligence.                                                                                                                                                                                                           |
-| [PublicWWW](https://publicwww.com)                                   | Marketing and affiliate marketing research.                                                                                                                                                                                                           |
-| [AlienVault](https://www.alienvault.com)                             | Extensive threat intelligence feed.                                                                                                                                                                                                                   |
-| [GrayHatWarfare](https://buckets.grayhatwarfare.com)                 | Search public S3 buckets.                                                                                                                                                                                                                             |
-| [PolySwarm](https://polyswarm.io)                                    | Scan files and URLs for threats.                                                                                                                                                                                                                      |
-| [Packet Storm Security](https://packetstormsecurity.com)             | Browse latest vulnerabilities and exploits.                                                                                                                                                                                                           |
-| [ONYPHE](https://www.onyphe.io)                                      | Collects cyber-threat intelligence data.                                                                                                                                                                                                              |
-| [Netlas](https://netlas.io)                                          | Search and monitor internet-connected assets.                                                                                                                                                                                                         |
-| [Hunter](https://hunter.io)                                          | Search for email addresses belonging to a website.                                                                                                                                                                                                    |
-| [Pulsedive](https://pulsedive.com)                                   | Search for threat intelligence.                                                                                                                                                                                                                       |
-| [Vulners](https://vulners.com)                                       | Search vulnerabilities in a large database.                                                                                                                                                                                                           |
-| [CRT.sh](https://crt.sh)                                             | Search for certs that have been logged by CT.                                                                                                                                                                                                         |
-| [SecurityTrails](https://securitytrails.com)                         | Extensive DNS data.                                                                                                                                                                                                                                   |
-| [FullHunt](https://fullhunt.io)                                      | Search and discovery attack surfaces.                                                                                                                                                                                                                 |
-| [Grep App](https://grep.app)                                         | Search across a half million git repos.                                                                                                                                                                                                               |
-| [GreyNoise](https://www.greynoise.io)                                | Search for devices connected to the internet.                                                                                                                                                                                                         |
-| [DNSDumpster](https://dnsdumpster.com)                               | Search for DNS records quickly.                                                                                                                                                                                                                       |
-| [ExploitDB](https://www.exploit-db.com)                              | Archive of various exploits.                                                                                                                                                                                                                          |
-| [SearchCode](https://searchcode.com)                                 | Search 75 billion lines of code from 40 million projects.                                                                                                                                                                                             |
-| [LeakIX](https://leakix.net)                                         | Search publicly indexed information.                                                                                                                                                                                                                  |
-| [DorkSearch](https://dorksearch.com)                                 | Really fast Google dorking.                                                                                                                                                                                                                           |
-| [WiGLE](https://wigle.net)                                           | Database of wireless networks, with statistics.                                                                                                                                                                                                       |
-| [URL Scan](https://urlscan.io)                                       | Free service to scan and analyze websites.                                                                                                                                                                                                            |
-| [WayBackMachine](https://archive.org/web)                            | View content from deleted websites.                                                                                                                                                                                                                   |
-| [DeHashed](https://www.dehashed.com)                                 | View leaked credentials.                                                                                                                                                                                                                              |
-| [Fofa](https://fofa.so)                                              | Search for various threat intelligence.                                                                                                                                                                                                               |
-| [Katana](https://github.com/adnane-X-tebbaa/Katana)                  | Open-source framework for web scanning and recon, useful for dark web investigations.                                                                                                                                                                 |
-| [OnionSearch](https://github.com/megadose/OnionSearch)               | Tool to search for .onion services across the dark web.                                                                                                                                                                                               |
-| [Darkdump](https://github.com/josh0xA/darkdump)                      | Command-line search engine for exploring the dark web.                                                                                                                                                                                                |
-| [Ahmia Search Engine](https://ahmia.fi)                              | Search engine for Tor Hidden Services on the dark web, with a public GitHub repo.                                                                                                                                                                     |
-| [Darkus](https://github.com/Lucksi/Darkus)                           | Powerful search tool designed for discovering .onion websites on the dark web.                                                                                                                                                                        |
-| [Onion Search Engine](https://onionengine.com)                       | Comprehensive dark web .onion search engine with multiple Tor links available: [Link 1](http://kn3hl4xwon63tc6hpjrwza2npb7d4w5yhbzq7jjewpfzyhsd65tm6dad.onion/) and [Link 2](http://zgphrnyp45suenks3jcscwvc5zllyk3vz4izzw67puwlzabw4wvwufid.onion/). |
-| [TorBot](https://github.com/DedSecInside/TorBot)                     | Automates crawling and searching for data across .onion sites.                                                                                                                                                                                        |
-| [Darc](https://github.com/JarryShaw/darc)                            | Distributed and automated .onion site crawler for large-scale data collection on the dark web.                                                                                                                                                        |
-| [Prying Deep](https://github.com/iudicium/pryingdeep)                | Advanced dark web crawler tailored for extracting and analyzing data from .onion sites.                                                                                                                                                               |
-| [Sex offenders background check](https://backgroundchecks.org/)      | Check for criminal records                                                                                                                                                                                                                            |
-| [Google](https://www.google.com)                                     | Popular search engine, useful for general OSINT investigations.                                                                                                                                                                                       |
-| [Yandex](https://www.yandex.com)                                     | Russian search engine, helpful for OSINT in Russian contexts.                                                                                                                                                                                         |
-| [MetaOSINT](https://metaosint.com)                                   | Interactive visualization tools for jumpstarting OSINT investigations.                                                                                                                                                                                |
-| [File Finder · GitHub](https://github.com)                           | A GitHub tool for locating files and code repositories.                                                                                                                                                                                               |
-| [OSINT Tools](https://osint.lolarchiver.com/)                        | A collection of OSINT resources and tools.                                                                                                                                                                                                            |
-| [Malfrat's OSINT Map](#)                                             | Interactive OSINT map with categorized tools and resources.                                                                                                                                                                                           |
-| [DorkSearch](https://dorksearch.com)                                 | Tool for speeding up Google Dorking during investigations.                                                                                                                                                                                            |
-| [YouTube Metadata](https://youtube.com)                              | Extract and analyze metadata from YouTube videos.                                                                                                                                                                                                     |
-| [FlightAware](https://flightaware.com)                               | Real-time flight tracking and status tool.                                                                                                                                                                                                            |
-| [JetPhotos](https://www.jetphotos.com)                               | Access a database of over 4 million aviation photos.                                                                                                                                                                                                  |
-| [Black Book Online](https://www.blackbookonline.info)                | Free public records search tool.                                                                                                                                                                                                                      |
-| [Family Watchdog](https://www.familywatchdog.us)                     | Free sex offender registry and other public records searches.                                                                                                                                                                                         |
-| [Background Checks.org](https://backgroundchecks.org)                | A guide to performing free public and criminal record searches.                                                                                                                                                                                       |
-| [BOP: Federal Bureau of Prisons](https://www.bop.gov)                | Federal inmate search and prison information.                                                                                                                                                                                                         |
-| [Online Detainee Locator System](https://locator.ice.gov)            | Tool for locating detainees in U.S. immigration custody.                                                                                                                                                                                              |
-| [IntelTechniques OSINT Tool](https://inteltechniques.com/tools.html) | A comprehensive suite of OSINT tools.                                                                                                                                                                                                                 |
-| [OSINT.link](https://osint.link)                                     | Directory of OSINT tools and resources.                                                                                                                                                                                                               |
-| [Snusbase](https://snusbase.com)                                     | Database search engine for breached data.                                                                                                                                                                                                             |
-| [Cylect.io](https://cylect.io)                                       | Ultimate OSINT search engine for various investigations.                                                                                                                                                                                              |
-| [DorkGPT](https://www.dorkgpt.com/)                                  | OSINT tool for automated Google dorking and advanced searches.                                                                                                                                                                                        |
-| [ZoomEye](https://ZoomEye.ai)                                        | ZoomEye is a cyberspace search engine for detailed website investigation and cybersecurity analysis.                                                                                                                                                                                                     |
-
-#### 8. [↑](#-content) DNS/IP
-
-| Tools                                                                                                                                   | Description                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum)                                                                               | Multithreaded Perl script for DNS enumeration and identifying non-contiguous IP blocks.             |
-| [Amass](https://github.com/owasp-amass/amass)                                                                                           | Tool for subdomain enumeration using data sources, brute force, web archives, and machine learning. |
-| [Columbus Project](https://columbus.elmasy.com/)                                                                                        | Advanced subdomain discovery service with a fast, user-friendly API.                                |
-| [findsubdomains](https://findsubdomains.com/)                                                                                           | Automatically collects subdomains from various online sources.                                      |
-| [Merklemap](https://www.merklemap.com/)                                                                                                 | Enumerates subdomains, including hidden ones, by analyzing certificate transparency logs.           |
-| [Subdomains Top 1 Million (5000)](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-5000.txt) | List of subdomains from the top 1 million domains, ideal for large-scale enumeration.               |
-| [Shubs Subdomains](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/shubs-subdomains.txt)                           | Subdomain list gathered by Shubs, valuable for reconnaissance purposes.                             |
-| [DNS Jhaddix List](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/dns-Jhaddix.txt)                                | Curated list of subdomains by Jhaddix, tailored for penetration testing.                            |
-| [Domain Digger](https://www.domaindigger.com)                                                                                           | Explore DNS records, WHOIS data, SSL/TLS certificates, subdomains, and more.                        |
-| [DNSlytics](https://dnslytics.com)                                                                                                      | Search for domain IPs, IPv4, IPv6, or associated providers.                                         |
-| [DNSTwist](https://dnstwist.com)                                                                                                        | Scan for phishing domains and related risks.                                                        |
-| [SecurityTrails](https://securitytrails.com)                                                                                            | Search for domain names, IPs, keywords, or hostnames to assess cybersecurity risks.                 |
-| [InternetDB](https://internetdb.shodan.io)                                                                                              | View open ports and device types linked to specific IP addresses.                                   |
-| [GreyNoise Intelligence](https://www.greynoise.io)                                                                                      | Identify internet scanners and common business activities in your security logs.                    |
-| [FOFA](https://fofa.so)                                                                                                                 | Explore internet-connected devices for reconnaissance and vulnerability analysis.                   |
-| [ZoomEye](https://www.zoomeye.org)                                                                                                      | A freemium tool for security reconnaissance, scanning for vulnerable devices online.                |
-| [Censys](https://www.censys.io)                                                                                                         | Assess the attack surface of internet-connected devices and platforms.                              |
-| [ViewDNS.info](https://viewdns.info)                                                                                                    | Perform reverse IP and Whois lookups to find hosted websites and domain owner details.              |
-| [IP Tracker](https://www.ip-tracker.org/)                                                                                               | Perform reverse IP lookup and gather information related to the IP address.                         |
-| [Internet Census 2012](https://internetcensus2012.org)                                                                                  | Access service probe records from a large-scale 2012 internet scan.                                 |
-| [ONYPHE](https://www.onyphe.io)                                                                                                         | Cyber defense search engine that indexes exposed assets from the internet and dark web.             |
-| [IPLeak](https://ipleak.net)                                                                                                            | Test for leaks in your IP address, DNS, and WebRTC during online activity.                          |
-| [Robtex](https://www.robtex.com)                                                                                                        | Research IP numbers, domains, and other online assets for deeper analysis.                          |
-| [Wappalyzer](https://www.wappalyzer.com)                                                                                                | Identify the technology stack behind any website, including CMS, e-commerce, and more.              |
-| [Photon](https://github.com/s0md3v/Photon)                                                                                              | A fast web crawler designed for OSINT (Open Source Intelligence) collection.                        |
-| [Technology Lookup](https://www.technologylookup.com)                                                                                   | Check which technologies a website is built with, including frameworks and tools.                   |
-| [BuiltWith](https://www.builtwith.com)                                                                                                  | Discover the technologies used to build any website, from CMS to hosting platforms.                 |
-| [OSINT.SH](https://osint.sh)                                                                                                            | A suite of OSINT tools for comprehensive information gathering.                                     |
-| [Nmap Checker Tool](https://nmap.org)                                                                                                   | Analyze network infrastructure and devices using Nmap's powerful scanning features.                 |
-| [Free Network Tools](https://www.networktools.com)                                                                                      | Offers network diagnostics such as traceroute, nslookup, ping, and DNS lookups.                     |
-| [Google Transparency Report](https://transparencyreport.google.com)                                                                     | Reports on HTTPS encryption across the web.                                                         |
-| [Certificate Search](https://www.certificate-search.com)                                                                                | Lookup and analyze SSL certificates and their associated domains.                                   |
-| [CRT](https://crt.sh)                                                                                                                   | Search and analyze SSL certificates for cybersecurity insights.                                     |
-| [LeakIX](https://leakix.net)                                                                                                            | Scan for exposed internet services and find relevant vulnerabilities.                               |
-| [URLScan.io](https://urlscan.io)                                                                                                        | A tool to scan and analyze websites, recording all interactions during page navigation.             |
-| [DNSDumpster](https://dnsdumpster.com)                                                                                                  | A free DNS research tool that identifies hosts related to a domain for security analysis.           |
-| [Domain Codex](https://www.domaincodex.com)                                                                                             | Perform private investigations and legal case research, including digital piracy analysis.          |
-| [SimilarWeb](https://www.similarweb.com)                                                                                                | Analyze website traffic sources and compare competitors' online performance.                        |
-| [IP Search](https://www.ipsearch.com)                                                                                                   | Access a network reputation database to find malicious IP addresses.                                |
-| [Reverse Domain](https://www.reversedomain.com)                                                                                         | Discover domain names based on keyword searches.                                                    |
-| [IANA - Root Zone Database](https://www.iana.org/domains/root/db)                                                                       | Provides delegation details for top-level domains (TLDs) like .com, .uk, and more.                  |
-| [PunkSpider](https://www.punkspider.org)                                                                                                | Search for vulnerable websites to assess security risks.                                            |
-| [Metabigor](https://www.metabigor.com)                                                                                                  | Offers various OSINT tools without requiring an API key for access.                                 |
-| [URLDNA](https://www.urldna.com)                                                                                                        | Gather information about URLs, such as SSL certificates, IP, and metadata.                          |
-| [Check-The-Sum](https://www.checkthesum.com)                                                                                            | A database of malicious files, IPs, and domains collected from honeypots.                           |
-| [Adalanche](https://github.com/lkarlslund/Adalanche?tab=readme-ov-file)                                                                 | Open Source Active Directory ACL Visualizer and Explorer.                                           |
-
-#### 9. [↑](#-content) Post Explotation
+### 9. [↑](#-content) Post Explotation
 
 | Tools                                                         | Description                                                                         |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -630,14 +515,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | A PowerShell post exploitation framework.                                           |
 | [ebowla](https://github.com/Genetic-Malware/Ebowla)           | Framework for Making Environmental Keyed Payloads.                                  |
 
-#### 10. [↑](#-content) Deobfuscators
+### 10. [↑](#-content) Deobfuscators
 
 | Tools                                     | Description                                                                                    |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [JS Nice](http://jsnice.org/)             | Web service guessing JS variables names and types based on the model derived from open source. |
 | [de4dot](https://github.com/0xd4d/de4dot) | .NET deobfuscator and unpacker.                                                                |
 
-#### 11. [↑](#-content) Decompilers
+### 11. [↑](#-content) Decompilers
 
 | Tools                                                    | Description                                                                                                                                          |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -654,7 +539,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Decai](https://github.com/radareorg/r2ai)               | LLM-based decompiler for radare2                                                                                                                     |
 | [BinaryNinja](https://binary.ninja/) | Binary Ninja is an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers. |
 
-#### 12. [↑](#-content) Disassembler and debuggers
+### 12. [↑](#-content) Disassembler and debuggers
 
 | Tools                                                 | Description                                                                                     |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -667,7 +552,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [ScratchABit](https://github.com/pfalcon/ScratchABit) | Customizable and hackable disassembler with support for IDAPython-compatible plugins.           |
 | [Ghidra](https://ghidra-sre.org/)                     | Comprehensive reverse engineering suite developed by the NSA.                                   |
 
-#### 13. [↑](#-content) Web
+### 13. [↑](#-content) Web
 
 | Web                                                       | Description                                                                                                                                 |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -690,7 +575,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Burp Suite](https://portswigger.net/burp/documentation/desktop/getting-started/download-and-install) | A powerful GUI based integrated platform for web application security testing, offering tools for intercepting traffic, scanning vulnerabilities, brute-forcing and exploiting security flaws.                                                                    |
 
 
-#### 14. [↑](#-content) Network
+### 14. [↑](#-content) Network
 
 | Tools                                                                 | Description                                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -730,8 +615,125 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [MitM](https://github.com/oxagast/mitm)                       | A man-in-the-middle framework for intercepting, modifying, and injecting traffic.    |
 | [HTTP Toolkit](https://httptoolkit.com/) |HTTP Toolkit is an open-source tool for debugging, testing and building with HTTP on Windows, Linux & Mac. 1 click setup for rooted devices. |
 
+### [↑](#-content) 29. RFID
 
-#### 15. [↑](#-content) Cryptography
+| Tool                                                                       | Description                                                                                                                                               |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Proxmark3](https://proxmark.com/)                                         | A powerful tool for reading, writing, and analyzing RFID and NFC cards.                                                                                   |
+| [ChameleonMini](https://github.com/emsec/ChameleonMini)                    | An RFID emulator for security analysis.                                                                                                                   |
+| [Flipper Zero](https://flipperzero.one/)                                   | A versatile multi-tool device for interacting with RFID, NFC, and other protocols.                                                                        |
+| [ACR122U](https://www.acs.com.hk/en/products/92/acr122u-usb-nfc-reader/)   | A USB-based NFC reader and writer commonly used for RFID development and testing.                                                                         |
+| [LibNFC](https://github.com/nfc-tools/libnfc)                              | An open-source library for using NFC readers and performing RFID interactions.                                                                            |
+| [MIFARE Classic Tool (MCT)](https://github.com/ikarus23/MifareClassicTool) | A mobile app for interacting with MIFARE Classic cards, reading, writing, and analyzing their data.                                                       |
+| [Cardpeek](https://github.com/L1L1/cardpeek)                               | A tool for analyzing smart cards, including Calypso-based transit cards, with a focus on data parsing and visualization.                                  |
+| [Metrodroid](https://github.com/metrodroid/metrodroid)                     | A mobile app for reading and analyzing transit cards, providing insights into metro card data.                                                            |
+| [Metroflip](https://lab.flipper.net/apps/metroflip)                        | A Flipper Zero app for reading and parsing metro cards, inspired by Metrodroid. It supports multi-protocol card reading and global transit card analysis. |
+| [Seader](https://github.com/bettse/seader)                                 | A Flipper Zero application to interface with a SAM from the Flipper Zero over UART                                                                        |
+| [NFC Magic](https://lab.flipper.net/apps/nfc_magic)                        | A Flipper zero application for writing to NFC tags with modifiable sector 0                                                                               |
+| [MFOC](https://github.com/nfc-tools/mfoc)                                  | MFOC is an open source implementation of "offline nested" attack                                                                                          |
+| [PicoPass](https://lab.flipper.net/apps/picopass)|App to communicate with NFC tags using the PicoPass(iClass) format. |
+| [Mifare Fuzzer](https://lab.flipper.net/apps/mifare_fuzzer) |App emulates Mifare Classic cards with various UIDs to check how reader reacts on them. |
+| [MFKey](https://lab.flipper.net/apps/mfkey) |MIFARE Classic key recovery tool. |
+
+
+### [↑](#-content) 32. WiFi 
+
+| Tools                                                         | Description                                                                          |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [Aireplay-ng](https://www.aircrack-ng.org/doku.php?id=airplay-ng) | A tool for injecting frames into a wireless network to manipulate traffic.          |
+| [Aircrack-ng](https://www.aircrack-ng.org/)                    | A suite of tools for cracking WEP and WPA-PSK encryption keys.                       |
+| [Airmon-ng](https://www.aircrack-ng.org/doku.php?id=airmon-ng) | A tool to configure wireless interfaces into monitor mode for packet capture.       |
+| [Airolib-ng](https://www.aircrack-ng.org/doku.php?id=airolib-ng) | A tool to create and manage a database for cracking WPA/WPA2 networks.                |
+| [Airegeddon](https://github.com/airgeddon/airgeddon)           | A multi-purpose WiFi hacking tool focused on WPA/WPA2 PSK networks.                 |
+| [Wash](https://github.com/aircrack-ng/wash)                   | A tool to identify routers that are vulnerable to WPS attacks.                      |
+| [Reaver](https://github.com/t6x/reaver-wps-fork)              | A tool designed to crack WPS PINs of routers to gain access to WPA networks.        |
+| [Bully](https://github.com/wiire/pwning)                      | A tool for brute-forcing WPS PINs of vulnerable routers.                             |
+| [Airbase-ng](https://www.aircrack-ng.org/doku.php?id=airbase-ng) | A tool to create fake access points for testing and social engineering attacks.      |
+| [Fern WiFi Cracker](https://github.com/savio-code/fern-wifi-cracker) | A GUI-based tool to crack WEP/WPA/WPS encryption on wireless networks.              |
+| [Wifite](https://github.com/derv82/wifite)                    | A tool for automating the cracking of WEP and WPA networks.                          |
+| [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | A tool for phishing attacks targeting WiFi networks and capturing credentials.      |
+| [Ghost Phisher](https://github.com/savio-code/ghost-phisher)  | A phishing tool that creates fake access points and social engineering attacks.      |
+
+
+### [↑](#-content) 33. Reconnaissance
+
+| **Tool**                                                | **Description**                                                              |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Nmap](https://nmap.org)                                 | A network scanning tool used for discovering hosts, services, and vulnerabilities on a network. |
+| [Netcat](https://nc110.sourceforge.io)                  | A versatile networking tool used for port scanning, banner grabbing, and transferring files. |
+| [Wireshark](https://www.wireshark.org)                   | A network protocol analyzer that captures and inspects network packets in real-time. |
+| [Fierce](https://github.com/mschwager/fierce)            | A domain scanner that helps map out a target’s domain infrastructure, including DNS records and subdomains. |
+| [Recon-ng](https://github.com/lanmaster53/recon-ng)      | A web-based reconnaissance framework that automates OSINT gathering from various sources. |
+| [TheHarvester](https://github.com/laramies/theHarvester) | A tool to gather email addresses, subdomains, and other information through search engines and public records. |
+| [Masscan](https://github.com/robertdavidgraham/masscan)  | A fast network scanner used for scanning large IP ranges to identify open ports. |
+| [Dig](https://man7.org/linux/man-pages/man1/dig.1.html)  | A command-line tool for querying DNS records and gathering information on domain names. |
+| [Sublist3r](https://github.com/aboul3la/Sublist3r)       | A tool for discovering subdomains using open-source intelligence. |
+| [Censys](https://censys.io)                             | Provides data on devices, services, and open ports exposed to the internet, assisting in reconnaissance. |
+| [Shodan](https://www.shodan.io)                          | A search engine that scans and indexes devices connected to the internet for reconnaissance. |
+| [SpiderFoot](https://www.spiderfoot.net)                 | An automation tool for gathering intelligence about a target by querying public databases and sources. |
+| [Dnsrecon](https://github.com/darkoperator/dnsrecon)     | A tool for DNS enumeration, identifying subdomains, and extracting other DNS-related data. |
+| [Enum4linux](https://github.com/CiscoCXSecurity/enum4linux) | A tool to gather information from Windows machines by querying SMB shares and services. |
+
+
+
+### [↑](#-content) 30. Bug Bounty
+
+| Tool                                               | Description                                                                                      |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [123Contact Form](https://www.123contactform.com)  | A versatile form builder for websites and mobile applications.                                   |
+| [99designs](https://99designs.com)                 | A platform to connect designers with clients needing logos, websites, and more.                  |
+| [Abacus](https://www.abacus.com)                   | A tool for simplifying expense reporting and tracking for businesses.                            |
+| [Acquia](https://www.acquia.com)                   | Cloud-based solutions for managing and optimizing digital experiences on Drupal.                 |
+| [ActiveCampaign](https://www.activecampaign.com)   | A customer experience automation platform for email marketing and CRM.                           |
+| [ActiveProspect](https://activeprospect.com)       | A SaaS platform to automate lead acquisition and qualification processes.                        |
+| [Adobe](https://www.adobe.com)                     | Industry-leading software solutions for creative professionals, including Photoshop and Acrobat. |
+| [AeroFS](https://www.aerofs.com)                   | A private cloud collaboration tool for secure team file sharing.                                 |
+| [Airbitz](https://airbitz.co)                      | A secure Bitcoin wallet and platform for decentralized applications.                             |
+| [Airbnb](https://www.airbnb.com)                   | A platform for booking short-term homestays and unique travel experiences.                       |
+| [Algolia](https://www.algolia.com)                 | A search and discovery API for websites and mobile applications.                                 |
+| [Altervista](https://www.altervista.org)           | A platform for creating free blogs and websites with monetization options.                       |
+| [Altroconsumo](https://www.altroconsumo.it)        | Italy's largest consumer organization offering product reviews and advice.                       |
+| [Amara](https://amara.org)                         | A tool for creating and managing subtitles for videos collaboratively.                           |
+| [Amazon Web Services](https://aws.amazon.com)      | A comprehensive cloud platform offering computing power, storage, and other services.            |
+| [Amazon.com](https://www.amazon.com)               | The world's largest online retailer offering a vast array of products and services.              |
+| [ANCILE Solutions Inc.](https://www.ancile.com)    | Solutions for creating and delivering on-demand learning and performance support.                |
+| [Anghami](https://www.anghami.com)                 | A music streaming platform focused on Arabic content.                                            |
+| [ANXBTC](https://anxbtc.com)                       | A Bitcoin trading and exchange platform.                                                         |
+| [Apache httpd](https://httpd.apache.org)           | An open-source HTTP server for hosting websites and applications.                                |
+| [Appcelerator](https://www.appcelerator.com)       | A cross-platform mobile app development tool.                                                    |
+| [Apple](https://www.apple.com)                     | A global leader in consumer electronics, software, and online services.                          |
+| [Apptentive](https://www.apptentive.com)           | A platform for mobile app engagement and customer feedback.                                      |
+| [Aptible](https://www.aptible.com)                 | A security and compliance platform for DevOps teams.                                             |
+| [Ardour](https://ardour.org)                       | A digital audio workstation for recording, editing, and mixing sound.                            |
+| [Arkane](https://www.arkane.network)               | A blockchain wallet and API service for developers.                                              |
+| [ARM mbed](https://www.mbed.com)                   | A platform for IoT device development and deployment.                                            |
+| [Asana](https://asana.com)                         | A project management tool for team collaboration and task tracking.                              |
+| [YesWeHack](https://www.yeswehack.com)             | A global bug bounty and vulnerability disclosure platform.                                       |
+| [intigriti](https://www.intigriti.com)             | A leading European platform for crowdsourced security testing.                                   |
+| [HackerOne](https://www.hackerone.com)             | A vulnerability coordination and bug bounty platform connecting businesses with hackers.         |
+| [Bugcrowd](https://www.bugcrowd.com)               | A platform offering managed bug bounty programs and vulnerability disclosure.                    |
+| [Cobalt](https://cobalt.io)                        | A pen-testing as a service platform with a global community of security experts.                 |
+| [Bountysource](https://www.bountysource.com)       | A funding platform for open-source projects and software development bounties.                   |
+| [Bounty Factory](https://bountyfactory.io)         | A platform for launching bug bounty programs with a community of ethical hackers.                |
+| [BMW Group Bug Bounty](https://www.bmwgroup.com/en/general/Security.html)| The security of our products and services is top priority for us |
+| [Coder Bounty](https://coderbounty.com)            | A platform for developers to earn rewards by solving coding challenges.                          |
+| [FreedomSponsors](https://www.freedomsponsors.org) | A funding platform for open-source software improvements and bug fixes.                          |
+| [FOSS Factory](https://fossfactory.org)            | A platform for funding free and open-source software development.                                |
+| [Synack](https://www.synack.com)                   | A crowdsourced security platform combining automation with a network of ethical hackers.         |
+| [HackenProof](https://hackenproof.com)             | A bug bounty and vulnerability coordination platform for businesses.                             |
+| [Detectify](https://detectify.com)                 | A SaaS platform offering web vulnerability scanning and crowdsourced security.                   |
+| [Bugbountyjp](https://bugbounty.jp)                | A Japanese platform for launching and managing bug bounty programs.                              |
+| [Safehats](https://safehats.com)                   | A vulnerability coordination platform for organizations to work with ethical hackers.            |
+| [BugbountyHQ](https://www.bugbountyhq.com)         | A community platform for ethical hackers to collaborate and find bug bounty opportunities.       |
+| [Hackerhive](https://hackerhive.com)               | A security platform for crowdsourced vulnerability assessments and bug bounties.                 |
+| [Hacktrophy](https://www.hacktrophy.com)           | A Slovak bug bounty platform for finding vulnerabilities in digital assets.                      |
+| [AntiHACK](https://antihack.me)                    | A bug bounty and penetration testing platform based in Asia.                                     |
+| [CESPPA](https://cesppa.com)                       | A cybersecurity and bug bounty platform for coordinated vulnerability disclosure.                |
+|[Bug Bounty Hunting](https://www.bugbountyhunting.com/)|Bug Bounty Hunting Search Engine|
+
+## 3. [↑](#-content) Cryptography
+
+### 15. [↑](#-content) Cryptography
 
 | Tools                                            | Description                                                                            |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------- |
@@ -739,86 +741,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [John the Ripper](http://www.openwall.com/john/) | A fast password cracker                                                                |
 | [Aircrack](http://www.aircrack-ng.org/)          | Aircrack is 802.11 WEP and WPA-PSK keys cracking program.                              |
 | [Ciphey](https://github.com/ciphey/ciphey)       | Automated decryption tool using artificial intelligence & natural language processing. |
-
-#### 16. [↑](#-content) Forensic
-
-| Tools                                                                                                  | Description                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Autopsy](http://www.sleuthkit.org/autopsy/)                                                           | Digital forensics platform and graphical interface for The Sleuth Kit and other tools.                                                                              |
-| [sleuthkit](https://github.com/sleuthkit/sleuthkit)                                                    | A collection of command-line digital forensics tools and library.                                                                                                   |
-| [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx)                | Suite of digital investigation products by Guidance Software.                                                                                                       |
-| [malzilla](http://malzilla.sourceforge.net/)                                                           | Malware hunting tool for analysis and detection.                                                                                                                    |
-| [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) | Brazilian Federal Police forensic investigation tool.                                                                                                               |
-| [CyLR](https://github.com/orlikoski/CyLR)                                                              | NTFS forensic image collector for forensic investigations.                                                                                                          |
-| [CAINE](https://www.caine-live.net/)                                                                   | Ubuntu-based tool that provides a complete forensic environment with a graphical interface.                                                                         |
-| [Volatility](https://www.volatilityfoundation.org/)                                                    | Framework for memory forensics and analysis of volatile memory.                                                                                                     |
-| [Redline](https://www.fireeye.com/services/freeware/redline.html)                                      | Host investigation and data acquisition tool.                                                                                                                       |
-| [REKALL](https://github.com/google/rekall)                                                             | Memory analysis and forensics framework.                                                                                                                            |
-| [Log2Timeline (Plaso)](https://plaso.readthedocs.io/)                                                  | Tool for creating timelines for forensic analysis.                                                                                                                  |
-| [Cyber Triage](https://cybersectools.com/tools/cyber-triage)                                           | Automated DFIR software for investigating malware, ransomware, and account takeovers.                                                                               |
-| [Dumpzilla](https://cybersectools.com/tools/dumpzilla)                                                 | Tool to extract forensic data from Firefox, Iceweasel, and Seamonkey browsers.                                                                                      |
-| [DFTimewolf](https://cybersectools.com/tools/dftimewolf)                                               | Framework for orchestrating forensic collection, processing, and export.                                                                                            |
-| [IPED Digital Forensic Tool](https://cybersectools.com/tools/iped-digital-forensic-tool)               | Open-source tool for analyzing disk images and file systems.                                                                                                        |
-| [Volatility 3](https://cybersectools.com/tools/volatility-3)                                           | Framework for extracting data from volatile memory for system state analysis.                                                                                       |
-| [Binalyze AIR](https://cybersectools.com/tools/binalyze-air)                                           | Digital forensics platform for comprehensive incident response.                                                                                                     |
-| [TestDisk](https://cybersectools.com/tools/testdisk)                                                   | Data recovery software for recovering lost partitions and undeleting files.                                                                                         |
-| [WinHex](https://cybersectools.com/tools/winhex)                                                       | Universal hex editor for forensics, data recovery, and IT security tasks.                                                                                           |
-| [Skadi](https://cybersectools.com/tools/skadi)                                                         | Open-source tools for forensic artifact and image analysis.                                                                                                         |
-| [Hoarder](https://cybersectools.com/tools/hoarder)                                                     | Tool for collecting and parsing Windows artifacts for digital forensics.                                                                                            |
-| [libregf](https://cybersectools.com/tools/libregf)                                                     | Library for accessing and parsing Windows NT Registry files.                                                                                                        |
-| [Radare2](https://cybersectools.com/tools/radare2)                                                     | Powerful framework for reverse engineering and binary analysis.                                                                                                     |
-| [Silk Guardian](https://cybersectools.com/tools/silk-guardian)                                         | Anti-forensic Linux kernel module that acts as a USB port kill-switch.                                                                                              |
-| [evtkit](https://cybersectools.com/tools/evtkit)                                                       | Tool for fixing acquired Windows Event Log files.                                                                                                                   |
-| [Pancake Viewer](https://cybersectools.com/tools/pancake-viewer)                                       | DFVFS-backed viewer for file extraction and viewing.                                                                                                                |
-| [Mobile Verification Toolkit (MVT)](https://cybersectools.com/tools/mobile-verification-toolkit)       | Forensic tool for gathering traces from Android and iOS devices.                                                                                                    |
-| [Turbinia](https://cybersectools.com/tools/turbinia)                                                   | Framework for automating forensic processing in cloud environments.                                                                                                 |
-| [Belkasoft Evidence Center](https://cybersectools.com/tools/belkasoft-evidence-center)                 | Comprehensive digital forensics and incident response platform.                                                                                                     |
-| [libevt](https://cybersectools.com/tools/libevt)                                                       | Library for parsing Windows Event Logs for forensic analysis.                                                                                                       |
-| [Sherloq](https://github.com/GuidoBartoli/sherloq)                                                     | An open-source digital image forensic toolset.                                                                                                                      |
-| [Kuiper](https://github.com/DFIRKuiper/Kuiper)                                                         | Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences. |
-| [RegRipper4.0](https://github.com/keydet89/RegRipper4.0)                                               | The key tool for forensic analysis of Windows DAT.                                                                                                                  |
-
-#### 17. [↑](#-content) Hex editors
-
-| Tools                                             | Description                                                                                                                 |
-| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [HxD](http://mh-nexus.de/en/hxd/)                 | A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size          |
-| [WinHex](http://www.winhex.com/winhex/)           | A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security |
-| [wxHexEditor](https://github.com/EUA/wxHexEditor) |                                                                                                                             |
-| [Synalize It](https://www.synalysis.net/)         |                                                                                                                             |
-| [Hexinator](https://hexinator.com/)               |                                                                                                                             |
-| [010 Editor](https://www.sweetscape.com/010editor/) |Edit text files, XML, HTML, Unicode and UTF-8 files, C/C++ source code, PHP, etc. Unlimited undo and powerful editing and scripting tools.  |
-| [ImHex](https://github.com/WerWolv/ImHex) |A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. Fully free. |
-
-#### 18. [↑](#-content) Execution logging and tracing
-
-| Tools                                                                                                                                                                                                        | Description                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| [Wireshark](https://www.wireshark.org/)                                                                                                                                                                      | A free and open-source packet analyzer for network protocol analysis.                                      |
-| [tcpdump](http://www.tcpdump.org/)                                                                                                                                                                           | A powerful command-line packet analyzer, along with libpcap for network traffic capture.                   |
-| [mitmproxy](https://github.com/mitmproxy/mitmproxy)                                                                                                                                                          | An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.                     |
-| [Charles Proxy](https://charlesproxy.com)                                                                                                                                                                    | A cross-platform GUI web debugging proxy for viewing intercepted HTTP and HTTPS/SSL live traffic.          |
-| [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt)                                                                                                                                            | USB capture tool for Linux, used for monitoring USB traffic.                                               |
-| [USBPcap](https://github.com/desowin/usbpcap)                                                                                                                                                                | USB capture tool for Windows, useful for monitoring USB traffic.                                           |
-| [dynStruct](https://github.com/ampotos/dynStruct)                                                                                                                                                            | A tool for structure recovery via dynamic instrumentation.                                                 |
-| [drltrace](https://github.com/mxmssh/drltrace)                                                                                                                                                               | A tool for tracing shared library calls.                                                                   |
-| [Research on CMSTP.exe](https://msitpros.com/?p=3960)                                                                                                                                                        | Detailed research on using CMSTP.exe for bypassing security restrictions and executing arbitrary code.     |
-| [Windows oneliners to download remote payload and execute arbitrary code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)                | Explains one-liner PowerShell commands for downloading and executing malicious payloads.                   |
-| [Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts](https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/) | Demonstrates techniques for bypassing AppLocker and executing commands with PowerShell diagnostic scripts. |
-| [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)                                                                                                           | A case study on exploiting Windows Script Host (WSH) injection for command execution.                      |
-| [Gscript Dropper](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)                                                                                                            | Introduction to using Gscript as a dropper tool in red team operations.                                    |
-
-#### 19. [↑](#-content) System
-
-| Tools                                                                                                           | Description                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Metasploit](https://github.com/rapid7/metasploit-framework)                                                    | A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development. |
-| [mimikatz](https://github.com/gentilkiwi/mimikatz)                                                              | A tool for Windows security that can extract plaintext passwords, hashes, and other secrets from memory.                                            |
-| [Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv)                       | A YouTube playlist offering tutorials on various hacking tools.                                                                                     |
-| [OBEX_common.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_common.txt) | A list of common OBEX (Object Exchange) paths, useful for targeting OBEX servers.                                                                   |
-| [OBEX_rare.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_rare.txt)     | A list of rare OBEX (Object Exchange) paths, useful for targeting OBEX servers.                                                                     |
-| [Everything](https://www.voidtools.com/)                                                                        | A fast file and folder search tool for Windows, allowing instant results with minimal system resource usage.                                        |
-
 
 ### [↑](#-content) 20. Steganographic
 
@@ -946,42 +868,76 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [DeepSteg](https://github.com/deepsteg/deepsteg)                                                                                                              | A steganalysis tool for detecting hidden data in images using deep learning techniques.                                                                     |
 | [Stegasaurus2](https://github.com/dfish13/Stegasaurus2)                                                                                                       | A steganography analysis tool.                                                                                                                              |
 
-### [↑](#-content) 22. Cryptocurrency
 
-| Tool                                                                                     | Description                                                                         |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [CryptoID](https://chainz.cryptoid.info/ltc/)                                            | This site provides blockchain explorers for several crypto-currencies.              |
-| [CoinTracker](https://www.cointracker.io/wallets/2/7d1bdc76-c995-4739-b7ab-dbe8c52f6305) | Platform that connects your crypto wallets                                          |
-| [Coinwink](https://www.coinwink.com)                                                     | Receive alerts for significant cryptocurrency price changes.                        |
-| [Flowscan](https://www.flowscan.org)                                                     | Blockchain explorer and analytics for various cryptocurrencies.                     |
-| [Bitcoin Explorer](https://www.bitcoinexplorer.org)                                      | Explore Bitcoin's blockchain, tracking all transactions in its public ledger.       |
-| [Ethereum Block Explorer](https://www.etherscan.io)                                      | Etherscan is a comprehensive block explorer and analytics platform for Ethereum.    |
-| [Blockchain Explorer](https://www.blockchain.com/explorer)                               | A platform offering various services, starting with Bitcoin blockchain exploration. |
-| [Blockcypher](https://www.blockcypher.com)                                               | A blockchain explorer that provides additional information not found elsewhere.     |
-| [Bitcoin Forums Search Engine](https://www.google.com)                                   | Custom Google search engine focused on Bitcoin forums and discussions.              |
-| [Addresschecker.eu](https://www.addresschecker.eu)                                       | Tool for verifying and checking the validity of cryptocurrency addresses.           |
-| [Cryptocurrency Alerting](https://www.cryptocurrencyalerting.com)                        | Real-time customizable price alerts for cryptocurrencies, stocks, and coins.        |
+## 1. [↑](#-content) Forensic & Malware Analysis
 
-### [↑](#-content) 23. Delete Your Trace
+### 16. [↑](#-content) Forensic
 
-| Tool                                      | Description                                               |
-| ----------------------------------------- | --------------------------------------------------------- |
-| [Redact](https://redact.dev/)             | Delete all you comments, likes... of your social acounts. |
-| [DeleteMe](https://joindeleteme.com/)     | Delete your information on all your accounts.             |
-| [incogni](https://incogni.com/)           | Delete your information of databrokers.                   |
-| [JustDeleteMe](https://justdeleteme.xyz/) | Delete your accounts.                                     |
+| Tools                                                                                                  | Description                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Autopsy](http://www.sleuthkit.org/autopsy/)                                                           | Digital forensics platform and graphical interface for The Sleuth Kit and other tools.                                                                              |
+| [sleuthkit](https://github.com/sleuthkit/sleuthkit)                                                    | A collection of command-line digital forensics tools and library.                                                                                                   |
+| [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx)                | Suite of digital investigation products by Guidance Software.                                                                                                       |
+| [malzilla](http://malzilla.sourceforge.net/)                                                           | Malware hunting tool for analysis and detection.                                                                                                                    |
+| [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) | Brazilian Federal Police forensic investigation tool.                                                                                                               |
+| [CyLR](https://github.com/orlikoski/CyLR)                                                              | NTFS forensic image collector for forensic investigations.                                                                                                          |
+| [CAINE](https://www.caine-live.net/)                                                                   | Ubuntu-based tool that provides a complete forensic environment with a graphical interface.                                                                         |
+| [Volatility](https://www.volatilityfoundation.org/)                                                    | Framework for memory forensics and analysis of volatile memory.                                                                                                     |
+| [Redline](https://www.fireeye.com/services/freeware/redline.html)                                      | Host investigation and data acquisition tool.                                                                                                                       |
+| [REKALL](https://github.com/google/rekall)                                                             | Memory analysis and forensics framework.                                                                                                                            |
+| [Log2Timeline (Plaso)](https://plaso.readthedocs.io/)                                                  | Tool for creating timelines for forensic analysis.                                                                                                                  |
+| [Cyber Triage](https://cybersectools.com/tools/cyber-triage)                                           | Automated DFIR software for investigating malware, ransomware, and account takeovers.                                                                               |
+| [Dumpzilla](https://cybersectools.com/tools/dumpzilla)                                                 | Tool to extract forensic data from Firefox, Iceweasel, and Seamonkey browsers.                                                                                      |
+| [DFTimewolf](https://cybersectools.com/tools/dftimewolf)                                               | Framework for orchestrating forensic collection, processing, and export.                                                                                            |
+| [IPED Digital Forensic Tool](https://cybersectools.com/tools/iped-digital-forensic-tool)               | Open-source tool for analyzing disk images and file systems.                                                                                                        |
+| [Volatility 3](https://cybersectools.com/tools/volatility-3)                                           | Framework for extracting data from volatile memory for system state analysis.                                                                                       |
+| [Binalyze AIR](https://cybersectools.com/tools/binalyze-air)                                           | Digital forensics platform for comprehensive incident response.                                                                                                     |
+| [TestDisk](https://cybersectools.com/tools/testdisk)                                                   | Data recovery software for recovering lost partitions and undeleting files.                                                                                         |
+| [WinHex](https://cybersectools.com/tools/winhex)                                                       | Universal hex editor for forensics, data recovery, and IT security tasks.                                                                                           |
+| [Skadi](https://cybersectools.com/tools/skadi)                                                         | Open-source tools for forensic artifact and image analysis.                                                                                                         |
+| [Hoarder](https://cybersectools.com/tools/hoarder)                                                     | Tool for collecting and parsing Windows artifacts for digital forensics.                                                                                            |
+| [libregf](https://cybersectools.com/tools/libregf)                                                     | Library for accessing and parsing Windows NT Registry files.                                                                                                        |
+| [Radare2](https://cybersectools.com/tools/radare2)                                                     | Powerful framework for reverse engineering and binary analysis.                                                                                                     |
+| [Silk Guardian](https://cybersectools.com/tools/silk-guardian)                                         | Anti-forensic Linux kernel module that acts as a USB port kill-switch.                                                                                              |
+| [evtkit](https://cybersectools.com/tools/evtkit)                                                       | Tool for fixing acquired Windows Event Log files.                                                                                                                   |
+| [Pancake Viewer](https://cybersectools.com/tools/pancake-viewer)                                       | DFVFS-backed viewer for file extraction and viewing.                                                                                                                |
+| [Mobile Verification Toolkit (MVT)](https://cybersectools.com/tools/mobile-verification-toolkit)       | Forensic tool for gathering traces from Android and iOS devices.                                                                                                    |
+| [Turbinia](https://cybersectools.com/tools/turbinia)                                                   | Framework for automating forensic processing in cloud environments.                                                                                                 |
+| [Belkasoft Evidence Center](https://cybersectools.com/tools/belkasoft-evidence-center)                 | Comprehensive digital forensics and incident response platform.                                                                                                     |
+| [libevt](https://cybersectools.com/tools/libevt)                                                       | Library for parsing Windows Event Logs for forensic analysis.                                                                                                       |
+| [Sherloq](https://github.com/GuidoBartoli/sherloq)                                                     | An open-source digital image forensic toolset.                                                                                                                      |
+| [Kuiper](https://github.com/DFIRKuiper/Kuiper)                                                         | Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences. |
+| [RegRipper4.0](https://github.com/keydet89/RegRipper4.0)                                               | The key tool for forensic analysis of Windows DAT.                                                                                                                  |
 
-### [↑](#-content) 24. Playbooks
+### 17. [↑](#-content) Hex editors
 
-| Tool                                                                                                | Description                                                    |
-| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [IRP-AccountCompromised](https://github.com/socfortress/Playbooks/tree/main/IRP-AccountCompromised) | A guide for handling compromised accounts.                     |
-| [IRP-Critical](https://github.com/socfortress/Playbooks/tree/main/IRP-Critical)                     | Playbook for critical incidents requiring immediate attention. |
-| [IRP-DataLoss](https://github.com/socfortress/Playbooks/tree/main/IRP-DataLoss)                     | Steps for addressing data loss incidents.                      |
-| [IRP-Malware](https://github.com/socfortress/Playbooks/tree/main/IRP-Malware)                       | Playbook for responding to malware infections.                 |
-| [IRP-Phishing](https://github.com/socfortress/Playbooks/tree/main/IRP-Phishing)                     | A guide for investigating phishing attacks.                    |
-| [IRP-Ransom](https://github.com/socfortress/Playbooks/tree/main/IRP-Ransom)                         | Playbook for handling ransomware incidents.                    |
-| [Hive-Templates](https://github.com/socfortress/Playbooks/tree/main/Hive-Templates)                 | Templates for incident tracking in Hive.                       |
+| Tools                                             | Description                                                                                                                 |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| [HxD](http://mh-nexus.de/en/hxd/)                 | A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size          |
+| [WinHex](http://www.winhex.com/winhex/)           | A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security |
+| [wxHexEditor](https://github.com/EUA/wxHexEditor) |                                                                                                                             |
+| [Synalize It](https://www.synalysis.net/)         |                                                                                                                             |
+| [Hexinator](https://hexinator.com/)               |                                                                                                                             |
+| [010 Editor](https://www.sweetscape.com/010editor/) |Edit text files, XML, HTML, Unicode and UTF-8 files, C/C++ source code, PHP, etc. Unlimited undo and powerful editing and scripting tools.  |
+| [ImHex](https://github.com/WerWolv/ImHex) |A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. Fully free. |
+
+## 18. [↑](#-content) Execution logging and tracing
+
+| Tools                                                                                                                                                                                                        | Description                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| [Wireshark](https://www.wireshark.org/)                                                                                                                                                                      | A free and open-source packet analyzer for network protocol analysis.                                      |
+| [tcpdump](http://www.tcpdump.org/)                                                                                                                                                                           | A powerful command-line packet analyzer, along with libpcap for network traffic capture.                   |
+| [mitmproxy](https://github.com/mitmproxy/mitmproxy)                                                                                                                                                          | An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.                     |
+| [Charles Proxy](https://charlesproxy.com)                                                                                                                                                                    | A cross-platform GUI web debugging proxy for viewing intercepted HTTP and HTTPS/SSL live traffic.          |
+| [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt)                                                                                                                                            | USB capture tool for Linux, used for monitoring USB traffic.                                               |
+| [USBPcap](https://github.com/desowin/usbpcap)                                                                                                                                                                | USB capture tool for Windows, useful for monitoring USB traffic.                                           |
+| [dynStruct](https://github.com/ampotos/dynStruct)                                                                                                                                                            | A tool for structure recovery via dynamic instrumentation.                                                 |
+| [drltrace](https://github.com/mxmssh/drltrace)                                                                                                                                                               | A tool for tracing shared library calls.                                                                   |
+| [Research on CMSTP.exe](https://msitpros.com/?p=3960)                                                                                                                                                        | Detailed research on using CMSTP.exe for bypassing security restrictions and executing arbitrary code.     |
+| [Windows oneliners to download remote payload and execute arbitrary code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)                | Explains one-liner PowerShell commands for downloading and executing malicious payloads.                   |
+| [Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts](https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/) | Demonstrates techniques for bypassing AppLocker and executing commands with PowerShell diagnostic scripts. |
+| [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)                                                                                                           | A case study on exploiting Windows Script Host (WSH) injection for command execution.                      |
+| [Gscript Dropper](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)                                                                                                            | Introduction to using Gscript as a dropper tool in red team operations.                                    |
 
 ### [↑](#-content) 25. Malware Analysis
 
@@ -1042,11 +998,18 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Sandboxie-Plus](https://sandboxie-plus.com/downloads)                                     | Another Malaware sandbox and might be a better option if your testing runs.   |
 | [Hybrid-Analysis](https://www.hybrid-analysis.com)    | Hybrid Analysis is a Malaware analysis service it's free and has ai or someone does it for free it's reliable and more accurate than total virus.    |
 
-### [↑](#-content) 26. SIEM
 
-| Tool                                  | Description                                                                                     |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [Cybersec](https://cybersectools.com) | A cybersecurity platform that integrates with SIEM solutions for centralized threat management. |
+## 1. [↑](#-content) Anonymity and Security Tools
+
+### [↑](#-content) 23. Delete Your Trace
+
+| Tool                                      | Description                                               |
+| ----------------------------------------- | --------------------------------------------------------- |
+| [Redact](https://redact.dev/)             | Delete all you comments, likes... of your social acounts. |
+| [DeleteMe](https://joindeleteme.com/)     | Delete your information on all your accounts.             |
+| [incogni](https://incogni.com/)           | Delete your information of databrokers.                   |
+| [JustDeleteMe](https://justdeleteme.xyz/) | Delete your accounts.                                     |
+
 
 ### [↑](#-content) 27. Password Managers
 
@@ -1063,83 +1026,275 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Proton VPN](https://protonvpn.com/) | Free & Paid (Subscription) | A secure VPN service that prioritizes privacy, offering both free and premium plans with strong encryption and no-logs policy.                     |
 | [IVPN](https://www.ivpn.net/)        | Paid (Subscription)        | A privacy-focused VPN service offering strong encryption, a strict no-logs policy, and advanced features like multi-hop VPN for enhanced security. |
 
-### [↑](#-content) 29. RFID
 
-| Tool                                                                       | Description                                                                                                                                               |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Proxmark3](https://proxmark.com/)                                         | A powerful tool for reading, writing, and analyzing RFID and NFC cards.                                                                                   |
-| [ChameleonMini](https://github.com/emsec/ChameleonMini)                    | An RFID emulator for security analysis.                                                                                                                   |
-| [Flipper Zero](https://flipperzero.one/)                                   | A versatile multi-tool device for interacting with RFID, NFC, and other protocols.                                                                        |
-| [ACR122U](https://www.acs.com.hk/en/products/92/acr122u-usb-nfc-reader/)   | A USB-based NFC reader and writer commonly used for RFID development and testing.                                                                         |
-| [LibNFC](https://github.com/nfc-tools/libnfc)                              | An open-source library for using NFC readers and performing RFID interactions.                                                                            |
-| [MIFARE Classic Tool (MCT)](https://github.com/ikarus23/MifareClassicTool) | A mobile app for interacting with MIFARE Classic cards, reading, writing, and analyzing their data.                                                       |
-| [Cardpeek](https://github.com/L1L1/cardpeek)                               | A tool for analyzing smart cards, including Calypso-based transit cards, with a focus on data parsing and visualization.                                  |
-| [Metrodroid](https://github.com/metrodroid/metrodroid)                     | A mobile app for reading and analyzing transit cards, providing insights into metro card data.                                                            |
-| [Metroflip](https://lab.flipper.net/apps/metroflip)                        | A Flipper Zero app for reading and parsing metro cards, inspired by Metrodroid. It supports multi-protocol card reading and global transit card analysis. |
-| [Seader](https://github.com/bettse/seader)                                 | A Flipper Zero application to interface with a SAM from the Flipper Zero over UART                                                                        |
-| [NFC Magic](https://lab.flipper.net/apps/nfc_magic)                        | A Flipper zero application for writing to NFC tags with modifiable sector 0                                                                               |
-| [MFOC](https://github.com/nfc-tools/mfoc)                                  | MFOC is an open source implementation of "offline nested" attack                                                                                          |
-| [PicoPass](https://lab.flipper.net/apps/picopass)|App to communicate with NFC tags using the PicoPass(iClass) format. |
-| [Mifare Fuzzer](https://lab.flipper.net/apps/mifare_fuzzer) |App emulates Mifare Classic cards with various UIDs to check how reader reacts on them. |
-| [MFKey](https://lab.flipper.net/apps/mfkey) |MIFARE Classic key recovery tool. |
+## 1. [↑](#-content) Utility & Miscellaneous
 
+### 1. [↑](#-content) Utility
 
-### [↑](#-content) 30. Bug Bounty
+| **Tool**                                                                                           | **Description**                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)                                          | Password recovery utility for cracking hashes.                                                                                                                                              |
+| [BrowserLeaks](https://browserleaks.com)                                                           | Suite of tools to test the security and privacy of your web browser.                                                                                                                        |
+| [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)                     | Check if your email address or domain was compromised in global Infostealer malware attacks                                                                                                 |
+| [CavalierGPT - The First Comprehensive Infostealers AI Bot](http://www.hudsonrock.com/cavaliergpt) | CavalierGPT retrieves and curates information from various Hudson Rock endpoints, enabling investigators to delve deeper into cybersecurity threats with unprecedented ease and efficiency. |
+| [Gravwell Community Edition](https://www.gravwell.io/gravwell-community-edition-plan)              | Full featured unstructured log SIEM/Security Data Lake with raw binary/pcap support                                                                                                         |
+| [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion)                                    | Crawls and monitors .onion sites for specified keywords or changes.                                                                                                                         |
+| [OnionIngestor](https://github.com/danieleperera/OnionIngestor)                                    | Gathers data from Tor hidden services for analysis or intelligence purposes.                                                                                                                |
+| [DumpsterDiver](https://github.com/securing/DumpsterDiver)                                                           | DumpsterDiver is a tool, which can analyze big volumes of data in search of hardcoded secrets like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords.                                                                                                                        |
 
-| Tool                                               | Description                                                                                      |
-| -------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [123Contact Form](https://www.123contactform.com)  | A versatile form builder for websites and mobile applications.                                   |
-| [99designs](https://99designs.com)                 | A platform to connect designers with clients needing logos, websites, and more.                  |
-| [Abacus](https://www.abacus.com)                   | A tool for simplifying expense reporting and tracking for businesses.                            |
-| [Acquia](https://www.acquia.com)                   | Cloud-based solutions for managing and optimizing digital experiences on Drupal.                 |
-| [ActiveCampaign](https://www.activecampaign.com)   | A customer experience automation platform for email marketing and CRM.                           |
-| [ActiveProspect](https://activeprospect.com)       | A SaaS platform to automate lead acquisition and qualification processes.                        |
-| [Adobe](https://www.adobe.com)                     | Industry-leading software solutions for creative professionals, including Photoshop and Acrobat. |
-| [AeroFS](https://www.aerofs.com)                   | A private cloud collaboration tool for secure team file sharing.                                 |
-| [Airbitz](https://airbitz.co)                      | A secure Bitcoin wallet and platform for decentralized applications.                             |
-| [Airbnb](https://www.airbnb.com)                   | A platform for booking short-term homestays and unique travel experiences.                       |
-| [Algolia](https://www.algolia.com)                 | A search and discovery API for websites and mobile applications.                                 |
-| [Altervista](https://www.altervista.org)           | A platform for creating free blogs and websites with monetization options.                       |
-| [Altroconsumo](https://www.altroconsumo.it)        | Italy's largest consumer organization offering product reviews and advice.                       |
-| [Amara](https://amara.org)                         | A tool for creating and managing subtitles for videos collaboratively.                           |
-| [Amazon Web Services](https://aws.amazon.com)      | A comprehensive cloud platform offering computing power, storage, and other services.            |
-| [Amazon.com](https://www.amazon.com)               | The world's largest online retailer offering a vast array of products and services.              |
-| [ANCILE Solutions Inc.](https://www.ancile.com)    | Solutions for creating and delivering on-demand learning and performance support.                |
-| [Anghami](https://www.anghami.com)                 | A music streaming platform focused on Arabic content.                                            |
-| [ANXBTC](https://anxbtc.com)                       | A Bitcoin trading and exchange platform.                                                         |
-| [Apache httpd](https://httpd.apache.org)           | An open-source HTTP server for hosting websites and applications.                                |
-| [Appcelerator](https://www.appcelerator.com)       | A cross-platform mobile app development tool.                                                    |
-| [Apple](https://www.apple.com)                     | A global leader in consumer electronics, software, and online services.                          |
-| [Apptentive](https://www.apptentive.com)           | A platform for mobile app engagement and customer feedback.                                      |
-| [Aptible](https://www.aptible.com)                 | A security and compliance platform for DevOps teams.                                             |
-| [Ardour](https://ardour.org)                       | A digital audio workstation for recording, editing, and mixing sound.                            |
-| [Arkane](https://www.arkane.network)               | A blockchain wallet and API service for developers.                                              |
-| [ARM mbed](https://www.mbed.com)                   | A platform for IoT device development and deployment.                                            |
-| [Asana](https://asana.com)                         | A project management tool for team collaboration and task tracking.                              |
-| [YesWeHack](https://www.yeswehack.com)             | A global bug bounty and vulnerability disclosure platform.                                       |
-| [intigriti](https://www.intigriti.com)             | A leading European platform for crowdsourced security testing.                                   |
-| [HackerOne](https://www.hackerone.com)             | A vulnerability coordination and bug bounty platform connecting businesses with hackers.         |
-| [Bugcrowd](https://www.bugcrowd.com)               | A platform offering managed bug bounty programs and vulnerability disclosure.                    |
-| [Cobalt](https://cobalt.io)                        | A pen-testing as a service platform with a global community of security experts.                 |
-| [Bountysource](https://www.bountysource.com)       | A funding platform for open-source projects and software development bounties.                   |
-| [Bounty Factory](https://bountyfactory.io)         | A platform for launching bug bounty programs with a community of ethical hackers.                |
-| [BMW Group Bug Bounty](https://www.bmwgroup.com/en/general/Security.html)| The security of our products and services is top priority for us |
-| [Coder Bounty](https://coderbounty.com)            | A platform for developers to earn rewards by solving coding challenges.                          |
-| [FreedomSponsors](https://www.freedomsponsors.org) | A funding platform for open-source software improvements and bug fixes.                          |
-| [FOSS Factory](https://fossfactory.org)            | A platform for funding free and open-source software development.                                |
-| [Synack](https://www.synack.com)                   | A crowdsourced security platform combining automation with a network of ethical hackers.         |
-| [HackenProof](https://hackenproof.com)             | A bug bounty and vulnerability coordination platform for businesses.                             |
-| [Detectify](https://detectify.com)                 | A SaaS platform offering web vulnerability scanning and crowdsourced security.                   |
-| [Bugbountyjp](https://bugbounty.jp)                | A Japanese platform for launching and managing bug bounty programs.                              |
-| [Safehats](https://safehats.com)                   | A vulnerability coordination platform for organizations to work with ethical hackers.            |
-| [BugbountyHQ](https://www.bugbountyhq.com)         | A community platform for ethical hackers to collaborate and find bug bounty opportunities.       |
-| [Hackerhive](https://hackerhive.com)               | A security platform for crowdsourced vulnerability assessments and bug bounties.                 |
-| [Hacktrophy](https://www.hacktrophy.com)           | A Slovak bug bounty platform for finding vulnerabilities in digital assets.                      |
-| [AntiHACK](https://antihack.me)                    | A bug bounty and penetration testing platform based in Asia.                                     |
-| [CESPPA](https://cesppa.com)                       | A cybersecurity and bug bounty platform for coordinated vulnerability disclosure.                |
-|[Bug Bounty Hunting](https://www.bugbountyhunting.com/)|Bug Bounty Hunting Search Engine|
+### 2. [↑](#-content) Miscellaneous
+
+| **Tool**                                                                                                                                               | **Description**                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| [GetAllURLs (gau)](https://cybersectools.com/tools/getallurls-gau)                                                                                     | Collects existing URLs for a domain from sources like Wayback Machine, URLScan, and AlienVault. |
+| [Guardey](https://cybersectools.com/tools/guardey)                                                                                                     | Offers gamified training and content for improving cybersecurity awareness.                     |
+| [NightShade](https://cybersectools.com/tools/nightshade)                                                                                               | Framework for designing and executing CTF challenges with a focus on security.                  |
+| [Smali/Baksmali mode for Emacs](https://cybersectools.com/tools/smali-baksmali-mode-for-emacs)                                                         | Improves Emacs usability for reading Smali code, aiding Android reverse engineering.            |
+| [Ctf-writeups](https://cybersectools.com/tools/ctf-writeups)                                                                                           | Detailed explanations and solutions for Capture the Flag (CTF) challenges.                      |
+| [Secrets of a High Performance Security-Focused Agile Team](https://cybersectools.com/tools/secrets-of-a-high-performance-security-focused-agile-team) | Best practices for incorporating security into agile development processes.                     |
+| [Dalvik Opcodes](https://cybersectools.com/tools/dalvik-opcodes)                                                                                       | A guide to Dalvik VM instructions, useful for analyzing Android applications.                   |
+| [AWS Config](https://cybersectools.com/tools/aws-config)                                                                                               | Evaluates and audits AWS resource configurations for compliance and security.                   |
+| [DeepDarkCTI](https://github.com/fastfire/deepdarkCTI)                                                                                                 | Cyber threat intelligence tool for monitoring and analyzing the dark web.                       |
 
 
+
+### 6. [↑](#-content) News
+
+| Tools                                               | Description                                                                                                                                                      |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [WolrdEinnwes](https://world.einnews.com)           | News and search engine tools.                                                                                                                                    |
+| [IT Security Guru](https://www.itsecurityguru.org/) | IT Security Guru is a top resource for the latest cybersecurity news, covering threats, data breaches, and expert insights to help you stay informed and secure. |
+
+### 7. [↑](#-content) Search Engines
+
+| Tools                                                                | Description                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [True People Search](https://truepeoplesearch.net)                   | Search for people's information.                                                                                                                                                                                                                      |
+| [Webmii](https://webmii.com)                                         | Aggregate search for personal information.                                                                                                                                                                                                            |
+| [Usa-Oficial](https://usa-official.com)                              | Official USA search tools.                                                                                                                                                                                                                            |
+| [Ussearch](https://ussearch.com)                                     | Search for people in the USA.                                                                                                                                                                                                                         |
+| [ThatsThem](https://thatsthem.com)                                   | Comprehensive search for personal information.                                                                                                                                                                                                        |
+| [Shodan Search](https://www.shodan.io)                               | Search engine for Internet-connected devices.                                                                                                                                                                                                         |
+| [Maltego](https://www.maltego.com)                                   | Tool for link analysis and data visualization.                                                                                                                                                                                                        |
+| [Spiderfoot](https://github.com/smicallef/spiderfoot)                | An OSINT automation tool.                                                                                                                                                                                                                             |
+| [Google Advanced Search](https://www.google.com/advanced_search)     | A tool to filter and refine search results based on specific needs.                                                                                                                                                                                   |
+| [Google Scholar](https://scholar.google.com)                         | Search engine for scholarly articles, theses, books, and other academic resources.                                                                                                                                                                    |
+| [Bing](https://www.bing.com)                                         | Microsoft's search engine with intelligent features and integrated services.                                                                                                                                                                          |
+| [MetaGer](https://metager.org)                                       | Privacy-focused search engine combining results from multiple indexes.                                                                                                                                                                                |
+| [DuckDuckGo](https://duckduckgo.com)                                 | Privacy-oriented search engine that doesn't track user activity.                                                                                                                                                                                      |
+| [Startpage](https://www.startpage.com)                               | Privacy-friendly search engine offering anonymous browsing.                                                                                                                                                                                           |
+| [Swisscows](https://swisscows.com)                                   | Anonymous search engine that protects user privacy and filters inappropriate content.                                                                                                                                                                 |
+| [Qwant](https://www.qwant.com)                                       | Privacy-respecting search engine with a European origin.                                                                                                                                                                                              |
+| [Ecosia](https://www.ecosia.org)                                     | Eco-friendly search engine that uses ad revenue to plant trees worldwide.                                                                                                                                                                             |
+| [Mojeek](https://www.mojeek.com)                                     | Independent search engine with a no-tracking policy.                                                                                                                                                                                                  |
+| [Brave Search](https://search.brave.com)                             | Privacy-centric search engine integrated with the Brave browser.                                                                                                                                                                                      |
+| [Yahoo Search](https://search.yahoo.com)                             | Yahoo's search engine offering web, image, and video search.                                                                                                                                                                                          |
+| [Baidu](https://www.baidu.com)                                       | China's leading search engine.                                                                                                                                                                                                                        |
+| [Dogpile](https://www.dogpile.com)                                   | Metasearch engine that aggregates results from multiple search engines.                                                                                                                                                                               |
+| [Million Short](https://millionshort.com)                            | A search engine that filters out top-ranked websites for deeper web discovery.                                                                                                                                                                        |
+| [MetaCrawler (Zoo Search)](https://www.metacrawler.com)              | Combines results from multiple search engines into a unified format.                                                                                                                                                                                  |
+| [Carrot2](https://search.carrot2.org)                                | Organizes search results into topic-based clusters for better navigation.                                                                                                                                                                             |
+| [Ask](https://www.ask.com)                                           | Combines a search engine with a news feed.                                                                                                                                                                                                            |
+| [Search Engines Index](https://www.searchengineindex.com)            | Directory of search engines for different countries worldwide.                                                                                                                                                                                        |
+| [CachedViews](https://www.cachedviews.com)                           | Access cached versions of web pages from various sources.                                                                                                                                                                                             |
+| [LibGen](https://libgen.rs)                                          | The largest free digital library of books.                                                                                                                                                                                                            |
+| [2lingual](https://www.2lingual.com)                                 | Allows simultaneous Google searches in two languages.                                                                                                                                                                                                 |
+| [IntelligenceX](https://intelx.io)                                   | Search Tor, I2P, data leaks, domains, and emails.                                                                                                                                                                                                     |
+| [Censys](https://censys.io)                                          | Assessing attack surface for internet-connected devices.                                                                                                                                                                                              |
+| [Binary Edge](https://www.binaryedge.io)                             | Scans the internet for threat intelligence.                                                                                                                                                                                                           |
+| [PublicWWW](https://publicwww.com)                                   | Marketing and affiliate marketing research.                                                                                                                                                                                                           |
+| [AlienVault](https://www.alienvault.com)                             | Extensive threat intelligence feed.                                                                                                                                                                                                                   |
+| [GrayHatWarfare](https://buckets.grayhatwarfare.com)                 | Search public S3 buckets.                                                                                                                                                                                                                             |
+| [PolySwarm](https://polyswarm.io)                                    | Scan files and URLs for threats.                                                                                                                                                                                                                      |
+| [Packet Storm Security](https://packetstormsecurity.com)             | Browse latest vulnerabilities and exploits.                                                                                                                                                                                                           |
+| [ONYPHE](https://www.onyphe.io)                                      | Collects cyber-threat intelligence data.                                                                                                                                                                                                              |
+| [Netlas](https://netlas.io)                                          | Search and monitor internet-connected assets.                                                                                                                                                                                                         |
+| [Hunter](https://hunter.io)                                          | Search for email addresses belonging to a website.                                                                                                                                                                                                    |
+| [Pulsedive](https://pulsedive.com)                                   | Search for threat intelligence.                                                                                                                                                                                                                       |
+| [Vulners](https://vulners.com)                                       | Search vulnerabilities in a large database.                                                                                                                                                                                                           |
+| [CRT.sh](https://crt.sh)                                             | Search for certs that have been logged by CT.                                                                                                                                                                                                         |
+| [SecurityTrails](https://securitytrails.com)                         | Extensive DNS data.                                                                                                                                                                                                                                   |
+| [FullHunt](https://fullhunt.io)                                      | Search and discovery attack surfaces.                                                                                                                                                                                                                 |
+| [Grep App](https://grep.app)                                         | Search across a half million git repos.                                                                                                                                                                                                               |
+| [GreyNoise](https://www.greynoise.io)                                | Search for devices connected to the internet.                                                                                                                                                                                                         |
+| [DNSDumpster](https://dnsdumpster.com)                               | Search for DNS records quickly.                                                                                                                                                                                                                       |
+| [ExploitDB](https://www.exploit-db.com)                              | Archive of various exploits.                                                                                                                                                                                                                          |
+| [SearchCode](https://searchcode.com)                                 | Search 75 billion lines of code from 40 million projects.                                                                                                                                                                                             |
+| [LeakIX](https://leakix.net)                                         | Search publicly indexed information.                                                                                                                                                                                                                  |
+| [DorkSearch](https://dorksearch.com)                                 | Really fast Google dorking.                                                                                                                                                                                                                           |
+| [WiGLE](https://wigle.net)                                           | Database of wireless networks, with statistics.                                                                                                                                                                                                       |
+| [URL Scan](https://urlscan.io)                                       | Free service to scan and analyze websites.                                                                                                                                                                                                            |
+| [WayBackMachine](https://archive.org/web)                            | View content from deleted websites.                                                                                                                                                                                                                   |
+| [DeHashed](https://www.dehashed.com)                                 | View leaked credentials.                                                                                                                                                                                                                              |
+| [Fofa](https://fofa.so)                                              | Search for various threat intelligence.                                                                                                                                                                                                               |
+| [Katana](https://github.com/adnane-X-tebbaa/Katana)                  | Open-source framework for web scanning and recon, useful for dark web investigations.                                                                                                                                                                 |
+| [OnionSearch](https://github.com/megadose/OnionSearch)               | Tool to search for .onion services across the dark web.                                                                                                                                                                                               |
+| [Darkdump](https://github.com/josh0xA/darkdump)                      | Command-line search engine for exploring the dark web.                                                                                                                                                                                                |
+| [Ahmia Search Engine](https://ahmia.fi)                              | Search engine for Tor Hidden Services on the dark web, with a public GitHub repo.                                                                                                                                                                     |
+| [Darkus](https://github.com/Lucksi/Darkus)                           | Powerful search tool designed for discovering .onion websites on the dark web.                                                                                                                                                                        |
+| [Onion Search Engine](https://onionengine.com)                       | Comprehensive dark web .onion search engine with multiple Tor links available: [Link 1](http://kn3hl4xwon63tc6hpjrwza2npb7d4w5yhbzq7jjewpfzyhsd65tm6dad.onion/) and [Link 2](http://zgphrnyp45suenks3jcscwvc5zllyk3vz4izzw67puwlzabw4wvwufid.onion/). |
+| [TorBot](https://github.com/DedSecInside/TorBot)                     | Automates crawling and searching for data across .onion sites.                                                                                                                                                                                        |
+| [Darc](https://github.com/JarryShaw/darc)                            | Distributed and automated .onion site crawler for large-scale data collection on the dark web.                                                                                                                                                        |
+| [Prying Deep](https://github.com/iudicium/pryingdeep)                | Advanced dark web crawler tailored for extracting and analyzing data from .onion sites.                                                                                                                                                               |
+| [Sex offenders background check](https://backgroundchecks.org/)      | Check for criminal records                                                                                                                                                                                                                            |
+| [Google](https://www.google.com)                                     | Popular search engine, useful for general OSINT investigations.                                                                                                                                                                                       |
+| [Yandex](https://www.yandex.com)                                     | Russian search engine, helpful for OSINT in Russian contexts.                                                                                                                                                                                         |
+| [MetaOSINT](https://metaosint.com)                                   | Interactive visualization tools for jumpstarting OSINT investigations.                                                                                                                                                                                |
+| [File Finder · GitHub](https://github.com)                           | A GitHub tool for locating files and code repositories.                                                                                                                                                                                               |
+| [OSINT Tools](https://osint.lolarchiver.com/)                        | A collection of OSINT resources and tools.                                                                                                                                                                                                            |
+| [Malfrat's OSINT Map](#)                                             | Interactive OSINT map with categorized tools and resources.                                                                                                                                                                                           |
+| [DorkSearch](https://dorksearch.com)                                 | Tool for speeding up Google Dorking during investigations.                                                                                                                                                                                            |
+| [YouTube Metadata](https://youtube.com)                              | Extract and analyze metadata from YouTube videos.                                                                                                                                                                                                     |
+| [FlightAware](https://flightaware.com)                               | Real-time flight tracking and status tool.                                                                                                                                                                                                            |
+| [JetPhotos](https://www.jetphotos.com)                               | Access a database of over 4 million aviation photos.                                                                                                                                                                                                  |
+| [Black Book Online](https://www.blackbookonline.info)                | Free public records search tool.                                                                                                                                                                                                                      |
+| [Family Watchdog](https://www.familywatchdog.us)                     | Free sex offender registry and other public records searches.                                                                                                                                                                                         |
+| [Background Checks.org](https://backgroundchecks.org)                | A guide to performing free public and criminal record searches.                                                                                                                                                                                       |
+| [BOP: Federal Bureau of Prisons](https://www.bop.gov)                | Federal inmate search and prison information.                                                                                                                                                                                                         |
+| [Online Detainee Locator System](https://locator.ice.gov)            | Tool for locating detainees in U.S. immigration custody.                                                                                                                                                                                              |
+| [IntelTechniques OSINT Tool](https://inteltechniques.com/tools.html) | A comprehensive suite of OSINT tools.                                                                                                                                                                                                                 |
+| [OSINT.link](https://osint.link)                                     | Directory of OSINT tools and resources.                                                                                                                                                                                                               |
+| [Snusbase](https://snusbase.com)                                     | Database search engine for breached data.                                                                                                                                                                                                             |
+| [Cylect.io](https://cylect.io)                                       | Ultimate OSINT search engine for various investigations.                                                                                                                                                                                              |
+| [DorkGPT](https://www.dorkgpt.com/)                                  | OSINT tool for automated Google dorking and advanced searches.                                                                                                                                                                                        |
+| [ZoomEye](https://ZoomEye.ai)                                        | ZoomEye is a cyberspace search engine for detailed website investigation and cybersecurity analysis.                                                                                                                                                                                                     |
+
+### 8. [↑](#-content) DNS/IP
+
+| Tools                                                                                                                                   | Description                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum)                                                                               | Multithreaded Perl script for DNS enumeration and identifying non-contiguous IP blocks.             |
+| [Amass](https://github.com/owasp-amass/amass)                                                                                           | Tool for subdomain enumeration using data sources, brute force, web archives, and machine learning. |
+| [Columbus Project](https://columbus.elmasy.com/)                                                                                        | Advanced subdomain discovery service with a fast, user-friendly API.                                |
+| [findsubdomains](https://findsubdomains.com/)                                                                                           | Automatically collects subdomains from various online sources.                                      |
+| [Merklemap](https://www.merklemap.com/)                                                                                                 | Enumerates subdomains, including hidden ones, by analyzing certificate transparency logs.           |
+| [Subdomains Top 1 Million (5000)](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-5000.txt) | List of subdomains from the top 1 million domains, ideal for large-scale enumeration.               |
+| [Shubs Subdomains](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/shubs-subdomains.txt)                           | Subdomain list gathered by Shubs, valuable for reconnaissance purposes.                             |
+| [DNS Jhaddix List](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/dns-Jhaddix.txt)                                | Curated list of subdomains by Jhaddix, tailored for penetration testing.                            |
+| [Domain Digger](https://www.domaindigger.com)                                                                                           | Explore DNS records, WHOIS data, SSL/TLS certificates, subdomains, and more.                        |
+| [DNSlytics](https://dnslytics.com)                                                                                                      | Search for domain IPs, IPv4, IPv6, or associated providers.                                         |
+| [DNSTwist](https://dnstwist.com)                                                                                                        | Scan for phishing domains and related risks.                                                        |
+| [SecurityTrails](https://securitytrails.com)                                                                                            | Search for domain names, IPs, keywords, or hostnames to assess cybersecurity risks.                 |
+| [InternetDB](https://internetdb.shodan.io)                                                                                              | View open ports and device types linked to specific IP addresses.                                   |
+| [GreyNoise Intelligence](https://www.greynoise.io)                                                                                      | Identify internet scanners and common business activities in your security logs.                    |
+| [FOFA](https://fofa.so)                                                                                                                 | Explore internet-connected devices for reconnaissance and vulnerability analysis.                   |
+| [ZoomEye](https://www.zoomeye.org)                                                                                                      | A freemium tool for security reconnaissance, scanning for vulnerable devices online.                |
+| [Censys](https://www.censys.io)                                                                                                         | Assess the attack surface of internet-connected devices and platforms.                              |
+| [ViewDNS.info](https://viewdns.info)                                                                                                    | Perform reverse IP and Whois lookups to find hosted websites and domain owner details.              |
+| [IP Tracker](https://www.ip-tracker.org/)                                                                                               | Perform reverse IP lookup and gather information related to the IP address.                         |
+| [Internet Census 2012](https://internetcensus2012.org)                                                                                  | Access service probe records from a large-scale 2012 internet scan.                                 |
+| [ONYPHE](https://www.onyphe.io)                                                                                                         | Cyber defense search engine that indexes exposed assets from the internet and dark web.             |
+| [IPLeak](https://ipleak.net)                                                                                                            | Test for leaks in your IP address, DNS, and WebRTC during online activity.                          |
+| [Robtex](https://www.robtex.com)                                                                                                        | Research IP numbers, domains, and other online assets for deeper analysis.                          |
+| [Wappalyzer](https://www.wappalyzer.com)                                                                                                | Identify the technology stack behind any website, including CMS, e-commerce, and more.              |
+| [Photon](https://github.com/s0md3v/Photon)                                                                                              | A fast web crawler designed for OSINT (Open Source Intelligence) collection.                        |
+| [Technology Lookup](https://www.technologylookup.com)                                                                                   | Check which technologies a website is built with, including frameworks and tools.                   |
+| [BuiltWith](https://www.builtwith.com)                                                                                                  | Discover the technologies used to build any website, from CMS to hosting platforms.                 |
+| [OSINT.SH](https://osint.sh)                                                                                                            | A suite of OSINT tools for comprehensive information gathering.                                     |
+| [Nmap Checker Tool](https://nmap.org)                                                                                                   | Analyze network infrastructure and devices using Nmap's powerful scanning features.                 |
+| [Free Network Tools](https://www.networktools.com)                                                                                      | Offers network diagnostics such as traceroute, nslookup, ping, and DNS lookups.                     |
+| [Google Transparency Report](https://transparencyreport.google.com)                                                                     | Reports on HTTPS encryption across the web.                                                         |
+| [Certificate Search](https://www.certificate-search.com)                                                                                | Lookup and analyze SSL certificates and their associated domains.                                   |
+| [CRT](https://crt.sh)                                                                                                                   | Search and analyze SSL certificates for cybersecurity insights.                                     |
+| [LeakIX](https://leakix.net)                                                                                                            | Scan for exposed internet services and find relevant vulnerabilities.                               |
+| [URLScan.io](https://urlscan.io)                                                                                                        | A tool to scan and analyze websites, recording all interactions during page navigation.             |
+| [DNSDumpster](https://dnsdumpster.com)                                                                                                  | A free DNS research tool that identifies hosts related to a domain for security analysis.           |
+| [Domain Codex](https://www.domaincodex.com)                                                                                             | Perform private investigations and legal case research, including digital piracy analysis.          |
+| [SimilarWeb](https://www.similarweb.com)                                                                                                | Analyze website traffic sources and compare competitors' online performance.                        |
+| [IP Search](https://www.ipsearch.com)                                                                                                   | Access a network reputation database to find malicious IP addresses.                                |
+| [Reverse Domain](https://www.reversedomain.com)                                                                                         | Discover domain names based on keyword searches.                                                    |
+| [IANA - Root Zone Database](https://www.iana.org/domains/root/db)                                                                       | Provides delegation details for top-level domains (TLDs) like .com, .uk, and more.                  |
+| [PunkSpider](https://www.punkspider.org)                                                                                                | Search for vulnerable websites to assess security risks.                                            |
+| [Metabigor](https://www.metabigor.com)                                                                                                  | Offers various OSINT tools without requiring an API key for access.                                 |
+| [URLDNA](https://www.urldna.com)                                                                                                        | Gather information about URLs, such as SSL certificates, IP, and metadata.                          |
+| [Check-The-Sum](https://www.checkthesum.com)                                                                                            | A database of malicious files, IPs, and domains collected from honeypots.                           |
+| [Adalanche](https://github.com/lkarlslund/Adalanche?tab=readme-ov-file)                                                                 | Open Source Active Directory ACL Visualizer and Explorer.                                           |
+
+
+
+### 19. [↑](#-content) System
+
+| Tools                                                                                                           | Description                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Metasploit](https://github.com/rapid7/metasploit-framework)                                                    | A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development. |
+| [mimikatz](https://github.com/gentilkiwi/mimikatz)                                                              | A tool for Windows security that can extract plaintext passwords, hashes, and other secrets from memory.                                            |
+| [Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv)                       | A YouTube playlist offering tutorials on various hacking tools.                                                                                     |
+| [OBEX_common.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_common.txt) | A list of common OBEX (Object Exchange) paths, useful for targeting OBEX servers.                                                                   |
+| [OBEX_rare.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_rare.txt)     | A list of rare OBEX (Object Exchange) paths, useful for targeting OBEX servers.                                                                     |
+| [Everything](https://www.voidtools.com/)                                                                        | A fast file and folder search tool for Windows, allowing instant results with minimal system resource usage.                                        |
+
+
+
+
+
+## 5. [↑](#-content) AI Tools
+
+### 5.1 [↑](#-content) AI Programming
+
+| Tool                                                  | Description                                                                                                                                                                                                           |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Cursor](https://cursor.sh/)                          | Function: Development environment focused on seamless AI interaction in code. Less known than Copilot but highly valued for assisted workflows. Advantage: Strong real-time AI/code collaboration integration.        |
+| [WindSurf](https://www.windsurf.io/)                  | Function: Documentation-focused completion and search system, enabling efficient explanation and navigation of complex projects. Advantage: Simplifies code understanding and exploration, useful for large projects. |
+| [Bolt](https://boltai.com/)                           | Function: Fast and minimalist code completion, optimized for speed and specific contexts. Advantage: Focuses on local performance rather than cloud solutions.                                                        |
+| [GitHub Copilot](https://github.com/features/copilot) | Function: Custom code generation powered by GPT-4 (or similar). Advantage: Perfect for a broad audience, though sometimes lacks advanced customization.                                                               |
+| [Tabnine](https://www.tabnine.com/)                   | Function: Uses AI models for local or cloud-based suggestions. Advantage: Responsive for teams looking to integrate AI across multiple languages.                                                                     |
+| [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources (like cybersources but with ai)|
+
+
+### 5.2 [↑](#-content) AI Cybersecurity
+
+| Tool                                               | Description                                                                                                                                                                                       |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Darktrace](https://www.darktrace.com/)            | Function: Real-time threat detection using machine learning algorithms. Advantage: Identifies unusual network behaviors to prevent cyberattacks before they occur.                                |
+| [CrowdStrike Falcon](https://www.crowdstrike.com/) | Function: AI-based Endpoint Protection Platform. Advantage: Offers proactive defense with advanced malware detection and rapid incident response.                                                 |
+| [Vectra AI](https://www.vectra.ai/)                | Function: Network traffic analysis for detecting internal and external threats. Advantage: Focuses on detecting complex attacks like lateral movements or data exfiltration.                      |
+| [Cynet 360](https://www.cynet.com/)                | Function: All-in-one security platform combining threat detection, incident response, and automation. Advantage: Particularly suitable for small businesses with limited cybersecurity resources. |
+| [Reveelium](https://www.alsego.com/reveelium/)     | Function: Anomaly detection and event correlation in information systems. Advantage: Ideal for identifying unusual behavior in logs of large organizations.     |
+| [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources.|
+| [PentestGPT](https://pentestgpt.ai/)| PentestGPT provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly.|
+
+
+
+## [↑](#-content) 22. Specialized Tools
+
+### [↑](#-content) 22. Cryptocurrency
+
+| Tool                                                                                     | Description                                                                         |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [CryptoID](https://chainz.cryptoid.info/ltc/)                                            | This site provides blockchain explorers for several crypto-currencies.              |
+| [CoinTracker](https://www.cointracker.io/wallets/2/7d1bdc76-c995-4739-b7ab-dbe8c52f6305) | Platform that connects your crypto wallets                                          |
+| [Coinwink](https://www.coinwink.com)                                                     | Receive alerts for significant cryptocurrency price changes.                        |
+| [Flowscan](https://www.flowscan.org)                                                     | Blockchain explorer and analytics for various cryptocurrencies.                     |
+| [Bitcoin Explorer](https://www.bitcoinexplorer.org)                                      | Explore Bitcoin's blockchain, tracking all transactions in its public ledger.       |
+| [Ethereum Block Explorer](https://www.etherscan.io)                                      | Etherscan is a comprehensive block explorer and analytics platform for Ethereum.    |
+| [Blockchain Explorer](https://www.blockchain.com/explorer)                               | A platform offering various services, starting with Bitcoin blockchain exploration. |
+| [Blockcypher](https://www.blockcypher.com)                                               | A blockchain explorer that provides additional information not found elsewhere.     |
+| [Bitcoin Forums Search Engine](https://www.google.com)                                   | Custom Google search engine focused on Bitcoin forums and discussions.              |
+| [Addresschecker.eu](https://www.addresschecker.eu)                                       | Tool for verifying and checking the validity of cryptocurrency addresses.           |
+| [Cryptocurrency Alerting](https://www.cryptocurrencyalerting.com)                        | Real-time customizable price alerts for cryptocurrencies, stocks, and coins.        |
+
+
+### [↑](#-content) 24. Playbooks
+
+| Tool                                                                                                | Description                                                    |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [IRP-AccountCompromised](https://github.com/socfortress/Playbooks/tree/main/IRP-AccountCompromised) | A guide for handling compromised accounts.                     |
+| [IRP-Critical](https://github.com/socfortress/Playbooks/tree/main/IRP-Critical)                     | Playbook for critical incidents requiring immediate attention. |
+| [IRP-DataLoss](https://github.com/socfortress/Playbooks/tree/main/IRP-DataLoss)                     | Steps for addressing data loss incidents.                      |
+| [IRP-Malware](https://github.com/socfortress/Playbooks/tree/main/IRP-Malware)                       | Playbook for responding to malware infections.                 |
+| [IRP-Phishing](https://github.com/socfortress/Playbooks/tree/main/IRP-Phishing)                     | A guide for investigating phishing attacks.                    |
+| [IRP-Ransom](https://github.com/socfortress/Playbooks/tree/main/IRP-Ransom)                         | Playbook for handling ransomware incidents.                    |
+| [Hive-Templates](https://github.com/socfortress/Playbooks/tree/main/Hive-Templates)                 | Templates for incident tracking in Hive.                       |
+
+
+### [↑](#-content) 26. SIEM
+
+| Tool                                  | Description                                                                                     |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [Cybersec](https://cybersectools.com) | A cybersecurity platform that integrates with SIEM solutions for centralized threat management. |
+
+
+## [↑](#-content) 22. Hardware & Operating Systems
 
 ### [↑](#-content) 31. Operating Systems
 
@@ -1170,57 +1325,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-
-### [↑](#-content) 32. WiFi 
-
-| Tools                                                         | Description                                                                          |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [Aireplay-ng](https://www.aircrack-ng.org/doku.php?id=airplay-ng) | A tool for injecting frames into a wireless network to manipulate traffic.          |
-| [Aircrack-ng](https://www.aircrack-ng.org/)                    | A suite of tools for cracking WEP and WPA-PSK encryption keys.                       |
-| [Airmon-ng](https://www.aircrack-ng.org/doku.php?id=airmon-ng) | A tool to configure wireless interfaces into monitor mode for packet capture.       |
-| [Airolib-ng](https://www.aircrack-ng.org/doku.php?id=airolib-ng) | A tool to create and manage a database for cracking WPA/WPA2 networks.                |
-| [Airegeddon](https://github.com/airgeddon/airgeddon)           | A multi-purpose WiFi hacking tool focused on WPA/WPA2 PSK networks.                 |
-| [Wash](https://github.com/aircrack-ng/wash)                   | A tool to identify routers that are vulnerable to WPS attacks.                      |
-| [Reaver](https://github.com/t6x/reaver-wps-fork)              | A tool designed to crack WPS PINs of routers to gain access to WPA networks.        |
-| [Bully](https://github.com/wiire/pwning)                      | A tool for brute-forcing WPS PINs of vulnerable routers.                             |
-| [Airbase-ng](https://www.aircrack-ng.org/doku.php?id=airbase-ng) | A tool to create fake access points for testing and social engineering attacks.      |
-| [Fern WiFi Cracker](https://github.com/savio-code/fern-wifi-cracker) | A GUI-based tool to crack WEP/WPA/WPS encryption on wireless networks.              |
-| [Wifite](https://github.com/derv82/wifite)                    | A tool for automating the cracking of WEP and WPA networks.                          |
-| [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | A tool for phishing attacks targeting WiFi networks and capturing credentials.      |
-| [Ghost Phisher](https://github.com/savio-code/ghost-phisher)  | A phishing tool that creates fake access points and social engineering attacks.      |
-
-
-
-### [↑](#-content) 33. Reconnaissance
-
-| **Tool**                                                | **Description**                                                              |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [Nmap](https://nmap.org)                                 | A network scanning tool used for discovering hosts, services, and vulnerabilities on a network. |
-| [Netcat](https://nc110.sourceforge.io)                  | A versatile networking tool used for port scanning, banner grabbing, and transferring files. |
-| [Wireshark](https://www.wireshark.org)                   | A network protocol analyzer that captures and inspects network packets in real-time. |
-| [Fierce](https://github.com/mschwager/fierce)            | A domain scanner that helps map out a target’s domain infrastructure, including DNS records and subdomains. |
-| [Recon-ng](https://github.com/lanmaster53/recon-ng)      | A web-based reconnaissance framework that automates OSINT gathering from various sources. |
-| [TheHarvester](https://github.com/laramies/theHarvester) | A tool to gather email addresses, subdomains, and other information through search engines and public records. |
-| [Masscan](https://github.com/robertdavidgraham/masscan)  | A fast network scanner used for scanning large IP ranges to identify open ports. |
-| [Dig](https://man7.org/linux/man-pages/man1/dig.1.html)  | A command-line tool for querying DNS records and gathering information on domain names. |
-| [Sublist3r](https://github.com/aboul3la/Sublist3r)       | A tool for discovering subdomains using open-source intelligence. |
-| [Censys](https://censys.io)                             | Provides data on devices, services, and open ports exposed to the internet, assisting in reconnaissance. |
-| [Shodan](https://www.shodan.io)                          | A search engine that scans and indexes devices connected to the internet for reconnaissance. |
-| [SpiderFoot](https://www.spiderfoot.net)                 | An automation tool for gathering intelligence about a target by querying public databases and sources. |
-| [Dnsrecon](https://github.com/darkoperator/dnsrecon)     | A tool for DNS enumeration, identifying subdomains, and extracting other DNS-related data. |
-| [Enum4linux](https://github.com/CiscoCXSecurity/enum4linux) | A tool to gather information from Windows machines by querying SMB shares and services. |
-
-
-
-
-
-## [↑](#-content) 🔧 Hardware Tools
+### [↑](#-content)  Hardware Tools
 
 | Tool                                     | Description                                                                                                                                                                             |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Flipper Zero](https://flipperzero.one/) | Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware, and more. |
 | [Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky)|A "flash drive" that types keystroke injection payloads into unsuspecting devices at incredible speeds. From Hak5. |
 | [Wifi Pineapple](https://shop.hak5.org/products/wifi-pineapple)|A Wi-Fi Pineapple is a wireless auditing platform from Hak5 that allows network security administrators to conduct penetration tests. |
+
 
 ## [↑](#-content) 📖 Learning
 
