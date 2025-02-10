@@ -17,7 +17,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 ## 📋 Content
 
-[OSINT](#3--osint)
+**OSINT**
 * [Username Search]((#31--username-search))
 * [Email Search](#32--email-search)
 * [GEOINT](#33--geoint)
@@ -32,7 +32,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
     * [Tinder](#47--tinder)
     * [Reddit](#48--reddit)
 
-Pentesting
+**Pentesting**
 * [Post Explotation](#9--post-explotation)
 * [Deobfuscators](#10--deobfuscators) 
 * [Decompilers](#11--decompilers) 
@@ -44,24 +44,23 @@ Pentesting
 * [Reconnaissance](#-33-reconnaissance)
 * [Bug Bounty](#-30-bug-bounty)
 
-
-Cryptography
+**Cryptography**
 * [Cryptography](#15--cryptography)
 * [Steganographic](#-20-steganographic)
 * [Steganalysis](#-21-steganalysis)
 
-Forensic & Malware Analysis
+**Forensic & Malware Analysis**
 * [Forensic](#16--forensic)
 * [Hex editors](#17--hex-editors)
 * [Execution logging and tracing](#18--execution-logging-and-tracing)
 * [Malware Analysis](#-25-malware-analysis)
 
-Anonymity and Security Tools
+**Anonymity and Security Tools**
 * [Delete Your Trace](#-23-delete-your-trace)
 * [Password Managers](#-27-password-managers)
 * [VPNs](#-28-VPNs)
 
-Utility & Miscellaneous
+**Utility & Miscellaneous**
 * [Utility]((#1--utility))
 * [Miscellaneous]((#2--miscellaneous))
 * [News](#6--news)
@@ -69,20 +68,20 @@ Utility & Miscellaneous
 * [DNS/IP](#8--dnsip)
 * [System](#19--system) 
 
-[AI Tools](#4--ai-tools)
+**AI Tools**
 * [AI Programming](#51--ai-programming)
 * [AI Cybersecurity](#52--ai-cybersecurity)
 
-Specialized Tools
+**Specialized Tools**
 * [Playbooks](#-24-playbooks)
 * [SIEM](#-26-siem)
 * [Cryptocurrency](#-22-cryptocurrency)
 
-Hardware & Operating Systems
+**Hardware & Operating Systems**
 * [Operating Systems](#-31-operating-systems)
 * [Hardware Tools](#--hardware-tools)
 
-Learning & Training Resources
+**Learning & Training Resources**
 * [Resources](#--resources)
 * [Courses](#--courses)
 * [Certifications](#--certifications)
@@ -93,7 +92,7 @@ Learning & Training Resources
 * [Learning Path](#-%EF%B8%8F-learning-path)
 * [Projects Based](#-%EF%B8%8F-projects-based)
 
-Social and Media
+**Social and Media**
 * [Events](#--events)
 * [Community](#--community)
 * [Podcasts](#-%EF%B8%8F-podcasts)
@@ -102,7 +101,7 @@ Social and Media
 * [TV Shows](#-%EF%B8%8F-tv-shows)
 * [Youtube Channels](#--youtube-channels)
 
-Repository
+**Repository**
 * [Stars History](#-%EF%B8%8F-star-history)
 * [Collaborate](#--collaborate)
 * [Credits](#--credits)
