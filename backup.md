@@ -61,26 +61,6 @@ Anonymity and Security Tools
 * [Password Managers](#-27-password-managers)
 * [VPNs](#-28-VPNs)
 
-Learning & Training Resources
-* [Resources](#--resources)
-* [Courses](#--courses)
-* [Certifications](#--certifications)
-* [Tutorials](#--tutorials)
-* [Practice Webs](#-%EF%B8%8F-practice-webs)
-* [CTFs - Training](#--ctfs---training)
-* [Open-Source Repositories](#--open-source-repositories)
-* [Learning Path](#-%EF%B8%8F-learning-path)
-* [Projects Based](#-%EF%B8%8F-projects-based)
-
-Social and Media
-* [Events](#--events)
-* [Community](#--community)
-* [Podcasts](#-%EF%B8%8F-podcasts)
-* [Documentaries](#--documentaries)
-* [Books & Papers/Articles](#--books--papersarticles)
-* [TV Shows](#-%EF%B8%8F-tv-shows)
-* [Youtube Channels](#--youtube-channels)
-
 Utility & Miscellaneous
 * [Utility]((#1--utility))
 * [Miscellaneous]((#2--miscellaneous))
@@ -101,6 +81,26 @@ Specialized Tools
 Hardware & Operating Systems
 * [Operating Systems](#-31-operating-systems)
 * [Hardware Tools](#--hardware-tools)
+
+Learning & Training Resources
+* [Resources](#--resources)
+* [Courses](#--courses)
+* [Certifications](#--certifications)
+* [Tutorials](#--tutorials)
+* [Practice Webs](#-%EF%B8%8F-practice-webs)
+* [CTFs - Training](#--ctfs---training)
+* [Open-Source Repositories](#--open-source-repositories)
+* [Learning Path](#-%EF%B8%8F-learning-path)
+* [Projects Based](#-%EF%B8%8F-projects-based)
+
+Social and Media
+* [Events](#--events)
+* [Community](#--community)
+* [Podcasts](#-%EF%B8%8F-podcasts)
+* [Documentaries](#--documentaries)
+* [Books & Papers/Articles](#--books--papersarticles)
+* [TV Shows](#-%EF%B8%8F-tv-shows)
+* [Youtube Channels](#--youtube-channels)
 
 Repository
 * [Stars History](#-%EF%B8%8F-star-history)
