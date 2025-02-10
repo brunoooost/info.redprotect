@@ -34,131 +34,79 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
     * [Reddit](#48--reddit)
 
 Pentesting
-* Post Exploitation 
-* Deobfuscators 
-* Decompilers 
-* Disassembler and Debuggers 
-* Network 
-* RFID 
-* Bug Bounty
+* [Post Explotation](#9--post-explotation)
+* [Deobfuscators](#10--deobfuscators) 
+* [Decompilers](#11--decompilers) 
+* [Disassembler and debuggers](#12--Disassembler-and-debuggers)
+* [Network](#14--network)
+* [RFID](#-29-RFID)
+* [Web](#13--web)
+* [WiFi](#-32-wifi)
+* [Reconnaissance](#-33-reconnaissance)
+* [Bug Bounty](#-30-bug-bounty)
 
-Web Attack
-* Web
-* Practice Webs
 
 Cryptography
-* Cryptography
-* Steganographic
-* Steganalysis
+* [Cryptography](#15--cryptography)
+* [Steganographic](#-20-steganographic)
+* [Steganalysis](#-21-steganalysis)
 
 Forensic & Malware Analysis
-* Forensic
-* Hex Editors
-* Execution Logging and Tracing
-* Malware Analysis
+* [Forensic](#16--forensic)
+* [Hex editors](#17--hex-editors)
+* [Execution logging and tracing](#18--execution-logging-and-tracing)
+* [Malware Analysis](#-25-malware-analysis)
 
 Anonymity and Security Tools
-* Delete Your Trace 
-* Password Managers 
-* VPNs 
+* [Delete Your Trace](#-23-delete-your-trace)
+* [Password Managers](#-27-password-managers)
+* [VPNs](#-28-VPNs)
 
 Learning & Training Resources
-* Learning
-* Resources
-* Courses
-* Certifications
-* Tutorials
-* CTFs - Training
-* Open-Source Repositories
-* Learning Path
-* Projects Based
+* [Resources](#--resources)
+* [Courses](#--courses)
+* [Certifications](#--certifications)
+* [Tutorials](#--tutorials)
+* [Practice Webs](#-%EF%B8%8F-practice-webs)
+* [CTFs - Training](#--ctfs---training)
+* [Open-Source Repositories](#--open-source-repositories)
+* [Learning Path](#-%EF%B8%8F-learning-path)
+* [Projects Based](#-%EF%B8%8F-projects-based)
 
 Social and Media
-* Events
-* Community
-* Media
-* Podcasts
-* Documentaries
-* Books & Papers/Articles
-* TV Shows
-* YouTube Channels
+* [Events](#--events)
+* [Community](#--community)
+* [Podcasts](#-%EF%B8%8F-podcasts)
+* [Documentaries](#--documentaries)
+* [Books & Papers/Articles](#--books--papersarticles)
+* [TV Shows](#-%EF%B8%8F-tv-shows)
+* [Youtube Channels](#--youtube-channels)
 
 Utility & Miscellaneous
 * [Utility]((#1--utility))
 * [Miscellaneous]((#2--miscellaneous))
-* News
-* Search Engines
-* DNS/IP
-* System 
+* [News](#6--news)
+* [Search Engines](#7--search-engines)
+* [DNS/IP](#8--dnsip)
+* [System](#19--system) 
 
-AI Tools
-* AI Tools
-    * AI Programming
-    * AI Cybersecurity
+[AI Tools](#4--ai-tools)
+* [AI Programming](#51--ai-programming)
+* [AI Cybersecurity](#52--ai-cybersecurity)
 
 Specialized Tools
-* Cryptanalysis Tools
-* Playbooks
-* SIEM
+* [Playbooks](#-24-playbooks)
+* [SIEM](#-26-siem)
+* [Cryptocurrency](#-22-cryptocurrency)
 
 Hardware & Operating Systems
-* Operating Systems
-* Hardware Tools
+* [Operating Systems](#-31-operating-systems)
+* [Hardware Tools](#--hardware-tools)
 
-  - [AI Tools](#4--ai-tools)
-    - [AI Programming](#51--ai-programming)
-    - [AI Cybersecurity](#52--ai-cybersecurity)
-  - [News](#6--news)
-  - [Search Engines](#7--search-engines)
-  - [DNS/IP](#8--dnsip)
-  - [Post Explotation](#9--post-explotation)
-  - [Deobfuscators](#10--deobfuscators)
-  - [Decompilers](#11--decompilers)
-  - [Disassembler and debuggers](#12--Disassembler-and-debuggers)
-  - [Web](#13--web)
-  - [Network](#14--network)
-  - [Cryptography](#15--cryptography)
-  - [Forensic](#16--forensic)
-  - [Hex editors](#17--hex-editors)
-  - [Execution logging and tracing](#18--execution-logging-and-tracing)
-  - [System](#19--system)
-  - [Steganographic](#-20-steganographic)
-  - [Steganalysis](#-21-steganalysis)
-  - [Cryptocurrency](#-22-cryptocurrency)
-  - [Delete Your Trace](#-23-delete-your-trace)
-  - [Playbooks](#-24-playbooks)
-  - [Malware Analysis](#-25-malware-analysis)
-  - [SIEM](#-26-siem)
-  - [Password Managers](#-27-password-managers)
-  - [VPNs](#-28-VPNs)
-  - [RFID](#-29-RFID)
-  - [Bug Bounty](#-30-bug-bounty)
-  - [Operating Systems](#-31-operating-systems)
-  - [WiFi](#-32-wifi)
-  - [Reconnaissance](#-33-reconnaissance)
-- [Hardware Tools](#--hardware-tools)
-- [Learning](#--learning)
-  - [Resources](#--resources)
-  - [Courses](#--courses)
-  - [Certifications](#--certifications)
-  - [Tutorials](#--tutorials)
-  - [CTFs - Training](#--ctfs---training)
-  - [Practice Webs](#-%EF%B8%8F-practice-webs)
-  - [Open-Source Repositories](#--open-source-repositories)
-  - [Learning Path](#-%EF%B8%8F-learning-path)
-  - [Projects Based](#-%EF%B8%8F-projects-based)
-- [Social](#-%EF%B8%8F-social)
-  - [Events](#--events)
-  - [Community](#--community)
-- [Media](#--media)
-  - [Podcasts](#-%EF%B8%8F-podcasts)
-  - [Documentaries](#--documentaries)
-  - [Books & Papers/Articles](#--books--papersarticles)
-  - [TV Shows](#-%EF%B8%8F-tv-shows)
-  - [Youtube Channels](#--youtube-channels)
-- [Stars History](#-%EF%B8%8F-star-history)
-- [Collaborate](#--collaborate)
-- [Credits](#--credits)
+Repository
+* [Stars History](#-%EF%B8%8F-star-history)
+* [Collaborate](#--collaborate)
+* [Credits](#--credits)
 
 
 
