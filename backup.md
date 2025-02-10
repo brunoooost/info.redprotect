@@ -17,20 +17,21 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 ## 📋 Content
 
-OSINT
+[OSINT](#3--osint)
 * OSINT
-* Username Search
-* Email Search
-* GEOINT
-* Photo/Images
-* Social Networks
-    * Instagram
-    * LinkedIn
-    * TikTok
-    * OnlyFans
-    * Discord
-    * Twitch
-    * Tinder
+* [Username Search]((#31--username-search))
+* [Email Search](#32--email-search)
+* [GEOINT](#33--geoint)
+* [Photo/Images](#34--photo--images)
+* [Social Networks](#4--social-networks)
+    * [Instagram](#41--instagram)
+    * [LinkedIn](#42--linkedin)
+    * [TikTok](#43--tiktok)
+    * [OnlyFans](#44--onlyfans)
+    * [Discord](#45--discord)
+    * [Twitch](#46--twitch)
+    * [Tinder](#47--tinder)
+    * [Reddit](#48--reddit)
 
 Pentesting
 * Post Exploitation 
@@ -83,8 +84,8 @@ Social and Media
 * YouTube Channels
 
 Utility & Miscellaneous
-* Utility
-* Miscellaneous
+* [Utility]((#1--utility))
+* [Miscellaneous]((#2--miscellaneous))
 * News
 * Search Engines
 * DNS/IP
@@ -104,23 +105,6 @@ Hardware & Operating Systems
 * Operating Systems
 * Hardware Tools
 
-- [Tools](#-%EF%B8%8F-tools)
-  - [Utility](#1--utility)
-  - [Miscellaneous](#2--miscellaneous)
-  - [OSINT](#3--osint)
-    - [Username Search](#31--username-search)
-    - [Email Search](#32--email-search)
-    - [GEOINT](#33--geoint)
-    - [Photo/Images](#34--photo--images)
-    - [Social Networks](#4--social-networks)
-      - [Instagram](#41--instagram)
-      - [Linkedin](#42--linkedin)
-      - [TikTok](#43--tiktok)
-      - [OnlyFans](#44--onlyfans)
-      - [Discord](#45--discord)
-      - [Twitch](#46--twitch)
-      - [Tinder](#47--tinder)
-      - [Reddit](#48--reddit)
   - [AI Tools](#4--ai-tools)
     - [AI Programming](#51--ai-programming)
     - [AI Cybersecurity](#52--ai-cybersecurity)
