@@ -62,25 +62,25 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 * [VPNs](#-53-VPNs)
 
 **Utility & Miscellaneous**
-* [Utility]((#1--utility))
-* [Miscellaneous]((#2--miscellaneous))
-* [News](#6--news)
-* [Search Engines](#7--search-engines)
-* [DNS/IP](#8--dnsip)
-* [System](#19--system) 
+* [Utility]((#61--utility))
+* [Miscellaneous]((#62--miscellaneous))
+* [News](#63--news)
+* [Search Engines](#64--search-engines)
+* [DNS/IP](#65--dnsip)
+* [System](#66--system) 
 
 **AI Tools**
-* [AI Programming](#51--ai-programming)
-* [AI Cybersecurity](#52--ai-cybersecurity)
+* [AI Programming](#71--ai-programming)
+* [AI Cybersecurity](#72--ai-cybersecurity)
 
 **Specialized Tools**
-* [Playbooks](#-24-playbooks)
-* [SIEM](#-26-siem)
-* [Cryptocurrency](#-22-cryptocurrency)
+* [Cryptocurrency](#-81-cryptocurrency)
+* [Playbooks](#-82-playbooks)
+* [SIEM](#-83-siem)
 
 **Hardware & Operating Systems**
-* [Operating Systems](#-31-operating-systems)
-* [Hardware Tools](#--hardware-tools)
+* [Operating Systems](#-91-operating-systems)
+* [Hardware Tools](#-92-hardware-tools)
 
 **Learning & Training Resources**
 * [Resources](#--resources)
