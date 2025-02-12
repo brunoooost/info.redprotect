@@ -109,9 +109,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-## [↑](#-content) OSINT
+## 1. [↑](#-content) OSINT
 
-#### 3. [↑](#-content) OSINT
+#### 1.1 [↑](#-content) OSINT
 
 | **Tool**                                                      | **Description**                   |
 | ------------------------------------------------------------- | --------------------------------- |
@@ -130,7 +130,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [LensoAI](https://lenso.ai/en)                                                                                                                         | AI-driven platform for reverse image searching.                                                 |
 | [OSINT Investigation Assistant](https://lambda.black/osint.html)| An OSINT Investigation Assistant designed to help with people investigations |
 
-#### 3.1 [↑](#-content) Username Search
+#### 1.2 [↑](#-content) Username Search
 
 
 | **Tool**                                                                           | **Description**                                                              |
@@ -157,7 +157,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Social Searcher](https://social-searcher.com) | OSINT tool to search social media platforms for public information.                            |
 | [UnAvatar](https://unavatar.io)     | Discover avatars tied to an email address across different platforms.                         |
 
-#### 3.2 [↑](#-content) Email Search
+#### 1.3 [↑](#-content) Email Search
 
 
 | Tool                                | Description                                                                                  |
@@ -190,7 +190,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-#### 3.3 [↑](#-content) GEOINT
+#### 1.4 [↑](#-content) GEOINT
 
 | Tools                                                                                                                       | Description                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -241,7 +241,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-#### 3.4 [↑](#-content) Photo / Images
+#### 1.5 [↑](#-content) Photo / Images
 
 | Tools                                                                          | Description                                                                                                                                      |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -250,9 +250,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Exiftool](https://github.com/exiftool/exiftool)     | A terminal based tool for extracting images meta data. |
 
 
-#### 4. [↑](#-content) Social Networks
+#### 1.6 [↑](#-content) Social Networks
 
-#### 4.1 [↑](#-content) Instagram
+#### 1.6.1 [↑](#-content) Instagram
 
 | Tools                                                                                                          | Description                                                                    |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -305,7 +305,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Flufi](https://flufi.me/)                                                                                     | A tool for exploring public stories, posts, reels, tags, followers, and more.. |
 | [Find Instagram User ID](https://findinstagramuserid.com/)                                                     | A tool to find the Instagram user ID for any profile.                          |
 
-#### 4.2 [↑](#-content) Linkedin
+#### 1.6.2 [↑](#-content) Linkedin
 
 | Tools                                                                                               | Description                                |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
@@ -328,7 +328,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Recruitment Geek](https://recruitmentgeek.com/tools/linkedin)                                      | LinkedIn search tool for recruiters.       |
 | [ScrapedIn](https://github.com/dchrastil/ScrapedIn)                                                 | Tool for scraping LinkedIn profiles.       |
 
-#### 4.3 [↑](#-content) TikTok
+#### 1.6.3 [↑](#-content) TikTok
 
 | Tools                                                                                                                             | Description                                                | --- |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --- |
@@ -355,7 +355,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [TubeHi](https://tubehi.com)                                                                                                      | Tool for analyzing TikTok and YouTube content.             | --- |
 | [Vidnice](https://vidnice.com)                                                                                                    | Tool for analyzing TikTok profiles and content.            | --- |
 
-#### 4.4 [↑](#-content) OnlyFans
+#### 1.6.4 [↑](#-content) OnlyFans
 
 | Tools                                                              | Description                                 |
 | ------------------------------------------------------------------ | ------------------------------------------- |
@@ -366,7 +366,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [SimilarFans](https://similarfans.com/)                            | Tool for finding similar OnlyFans profiles. |
 | [FanSearch](https://www.fansearch.com/)                            | Comprehensive search tool for OnlyFans.     |
 
-#### 4.5 [↑](#-content) Discord
+#### 1.6.5 [↑](#-content) Discord
 
 | Tools                                                               | Description                                                                                                         |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -381,7 +381,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [DiscordOSINT](https://discordosint.com/)                           | Provides resources for conducting research and OSINT investigations related to Discord accounts, servers, and bots. |
 | [Discord Bots](https://discordbots.org/)                            | A comprehensive directory of top Discord bots, apps, and servers, including popular music and economy bots.         |
 
-#### 4.6 [↑](#-content) Twitch
+#### 1.6.6 [↑](#-content) Twitch
 
 | Tools                                                                           | Description                                                            |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -397,7 +397,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Twitch Insights](https://twitchinsights.net/)                                  | Tool for analyzing Twitch trends and statistics.                       |
 | [Twitch Followage Tool](https://streamscharts.com/tools/followage)              | Tool for checking how long users have been following a Twitch channel. |
 
-#### 4.7 [↑](#-content) Tinder
+#### 1.6.7 [↑](#-content) Tinder
 
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
@@ -422,7 +422,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [zoosk](https://www.zoosk.com)                     | Dating site with a behavioral matchmaking algorithm.           |
 
 
-### 4.8 [↑](#-content) Reddit
+#### 1.6.8 [↑](#-content) Reddit
 
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
@@ -436,7 +436,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 ## 2. [↑](#-content) Pentesting
 
-### 9. [↑](#-content) Post Explotation
+### 2.1 [↑](#-content) Post Explotation
 
 | Tools                                                         | Description                                                                         |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -445,14 +445,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | A PowerShell post exploitation framework.                                           |
 | [ebowla](https://github.com/Genetic-Malware/Ebowla)           | Framework for Making Environmental Keyed Payloads.                                  |
 
-### 10. [↑](#-content) Deobfuscators
+### 2.2 [↑](#-content) Deobfuscators
 
 | Tools                                     | Description                                                                                    |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [JS Nice](http://jsnice.org/)             | Web service guessing JS variables names and types based on the model derived from open source. |
 | [de4dot](https://github.com/0xd4d/de4dot) | .NET deobfuscator and unpacker.                                                                |
 
-### 11. [↑](#-content) Decompilers
+### 2.3 [↑](#-content) Decompilers
 
 | Tools                                                    | Description                                                                                                                                          |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -469,7 +469,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Decai](https://github.com/radareorg/r2ai)               | LLM-based decompiler for radare2                                                                                                                     |
 | [BinaryNinja](https://binary.ninja/) | Binary Ninja is an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers. |
 
-### 12. [↑](#-content) Disassembler and debuggers
+### 2.4 [↑](#-content) Disassembler and debuggers
 
 | Tools                                                 | Description                                                                                     |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -482,7 +482,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [ScratchABit](https://github.com/pfalcon/ScratchABit) | Customizable and hackable disassembler with support for IDAPython-compatible plugins.           |
 | [Ghidra](https://ghidra-sre.org/)                     | Comprehensive reverse engineering suite developed by the NSA.                                   |
 
-### 13. [↑](#-content) Web
+### 2.5 [↑](#-content) Web
 
 | Web                                                       | Description                                                                                                                                 |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -505,7 +505,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Burp Suite](https://portswigger.net/burp/documentation/desktop/getting-started/download-and-install) | A powerful GUI based integrated platform for web application security testing, offering tools for intercepting traffic, scanning vulnerabilities, brute-forcing and exploiting security flaws.                                                                    |
 
 
-### 14. [↑](#-content) Network
+### 2.6 [↑](#-content) Network
 
 | Tools                                                                 | Description                                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -545,7 +545,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [MitM](https://github.com/oxagast/mitm)                       | A man-in-the-middle framework for intercepting, modifying, and injecting traffic.    |
 | [HTTP Toolkit](https://httptoolkit.com/) |HTTP Toolkit is an open-source tool for debugging, testing and building with HTTP on Windows, Linux & Mac. 1 click setup for rooted devices. |
 
-### [↑](#-content) 29. RFID
+### [↑](#-content) 2.7 RFID
 
 | Tool                                                                       | Description                                                                                                                                               |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -566,7 +566,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [MFKey](https://lab.flipper.net/apps/mfkey) |MIFARE Classic key recovery tool. |
 
 
-### [↑](#-content) 32. WiFi 
+### [↑](#-content) 2.8 WiFi 
 
 | Tools                                                         | Description                                                                          |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
@@ -585,7 +585,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Ghost Phisher](https://github.com/savio-code/ghost-phisher)  | A phishing tool that creates fake access points and social engineering attacks.      |
 
 
-### [↑](#-content) 33. Reconnaissance
+### [↑](#-content) 2.9 Reconnaissance
 
 | **Tool**                                                | **Description**                                                              |
 | ------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -606,7 +606,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-### [↑](#-content) 30. Bug Bounty
+### [↑](#-content) 2.10 Bug Bounty
 
 | Tool                                               | Description                                                                                      |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -661,9 +661,10 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [CESPPA](https://cesppa.com)                       | A cybersecurity and bug bounty platform for coordinated vulnerability disclosure.                |
 |[Bug Bounty Hunting](https://www.bugbountyhunting.com/)|Bug Bounty Hunting Search Engine|
 
+
 ## 3. [↑](#-content) Cryptography
 
-### 15. [↑](#-content) Cryptography
+### 3.1 [↑](#-content) Cryptography
 
 | Tools                                            | Description                                                                            |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------- |
@@ -672,7 +673,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Aircrack](http://www.aircrack-ng.org/)          | Aircrack is 802.11 WEP and WPA-PSK keys cracking program.                              |
 | [Ciphey](https://github.com/ciphey/ciphey)       | Automated decryption tool using artificial intelligence & natural language processing. |
 
-### [↑](#-content) 20. Steganographic
+### [↑](#-content) 3.2 Steganographic
 
 | Tools                                                                                                                | Description                                                           |
 | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -743,7 +744,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage)                                                           | A tool for embedding PowerShell scripts in images.                    |
 | [instegogram](https://github.com/endgameinc/instegogram)                                                             | A tool for steganography in Instagram images.                         |
 
-### [↑](#-content) 21. Steganalysis
+### [↑](#-content) 3.3 Steganalysis
 
 | Tool                                                                                                                                                          | Description                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -799,9 +800,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Stegasaurus2](https://github.com/dfish13/Stegasaurus2)                                                                                                       | A steganography analysis tool.                                                                                                                              |
 
 
-## 1. [↑](#-content) Forensic & Malware Analysis
+## 4. [↑](#-content) Forensic & Malware Analysis
 
-### 16. [↑](#-content) Forensic
+### 4.1 [↑](#-content) Forensic
 
 | Tools                                                                                                  | Description                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -839,7 +840,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Kuiper](https://github.com/DFIRKuiper/Kuiper)                                                         | Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences. |
 | [RegRipper4.0](https://github.com/keydet89/RegRipper4.0)                                               | The key tool for forensic analysis of Windows DAT.                                                                                                                  |
 
-### 17. [↑](#-content) Hex editors
+### 4.2 [↑](#-content) Hex editors
 
 | Tools                                             | Description                                                                                                                 |
 | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -851,7 +852,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [010 Editor](https://www.sweetscape.com/010editor/) |Edit text files, XML, HTML, Unicode and UTF-8 files, C/C++ source code, PHP, etc. Unlimited undo and powerful editing and scripting tools.  |
 | [ImHex](https://github.com/WerWolv/ImHex) |A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. Fully free. |
 
-## 18. [↑](#-content) Execution logging and tracing
+## 4.3 [↑](#-content) Execution logging and tracing
 
 | Tools                                                                                                                                                                                                        | Description                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -869,7 +870,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)                                                                                                           | A case study on exploiting Windows Script Host (WSH) injection for command execution.                      |
 | [Gscript Dropper](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)                                                                                                            | Introduction to using Gscript as a dropper tool in red team operations.                                    |
 
-### [↑](#-content) 25. Malware Analysis
+### [↑](#-content) 4.4 Malware Analysis
 
 | Tool                                                                                       | Description                                                                   |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
@@ -929,9 +930,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Hybrid-Analysis](https://www.hybrid-analysis.com)    | Hybrid Analysis is a Malaware analysis service it's free and has ai or someone does it for free it's reliable and more accurate than total virus.    |
 
 
-## 1. [↑](#-content) Anonymity and Security Tools
+## 5. [↑](#-content) Anonymity and Security Tools
 
-### [↑](#-content) 23. Delete Your Trace
+### [↑](#-content) 5.1 Delete Your Trace
 
 | Tool                                      | Description                                               |
 | ----------------------------------------- | --------------------------------------------------------- |
@@ -941,14 +942,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [JustDeleteMe](https://justdeleteme.xyz/) | Delete your accounts.                                     |
 
 
-### [↑](#-content) 27. Password Managers
+### [↑](#-content) 5.2 Password Managers
 
 | Resource                         | Price | Description                                        |
 | -------------------------------- | ----- | -------------------------------------------------- |
 | [Keepass](https://keepass.info/) | Free  | Available on windows, linux, mac, IOS and Android. |
 | [Bitwarden](https://bitwarden.com/)                    | Freemium | A password manager that securely stores manages and syncs credentials across any browsers or devices. |
 
-### [↑](#-content) 28. VPNs
+### [↑](#-content) 5.3 VPNs
 
 | Resource                             | Price                      | Description                                                                                                                                        |
 | ------------------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -957,9 +958,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [IVPN](https://www.ivpn.net/)        | Paid (Subscription)        | A privacy-focused VPN service offering strong encryption, a strict no-logs policy, and advanced features like multi-hop VPN for enhanced security. |
 
 
-## 1. [↑](#-content) Utility & Miscellaneous
+## 6. [↑](#-content) Utility & Miscellaneous
 
-### 1. [↑](#-content) Utility
+### 6.1 [↑](#-content) Utility
 
 | **Tool**                                                                                           | **Description**                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -972,7 +973,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [OnionIngestor](https://github.com/danieleperera/OnionIngestor)                                    | Gathers data from Tor hidden services for analysis or intelligence purposes.                                                                                                                |
 | [DumpsterDiver](https://github.com/securing/DumpsterDiver)                                                           | DumpsterDiver is a tool, which can analyze big volumes of data in search of hardcoded secrets like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords.                                                                                                                        |
 
-### 2. [↑](#-content) Miscellaneous
+### 6.2 [↑](#-content) Miscellaneous
 
 | **Tool**                                                                                                                                               | **Description**                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
@@ -988,14 +989,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-### 6. [↑](#-content) News
+### 6.3 [↑](#-content) News
 
 | Tools                                               | Description                                                                                                                                                      |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [WolrdEinnwes](https://world.einnews.com)           | News and search engine tools.                                                                                                                                    |
 | [IT Security Guru](https://www.itsecurityguru.org/) | IT Security Guru is a top resource for the latest cybersecurity news, covering threats, data breaches, and expert insights to help you stay informed and secure. |
 
-### 7. [↑](#-content) Search Engines
+### 6.4 [↑](#-content) Search Engines
 
 | Tools                                                                | Description                                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1089,7 +1090,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [DorkGPT](https://www.dorkgpt.com/)                                  | OSINT tool for automated Google dorking and advanced searches.                                                                                                                                                                                        |
 | [ZoomEye](https://ZoomEye.ai)                                        | ZoomEye is a cyberspace search engine for detailed website investigation and cybersecurity analysis.                                                                                                                                                                                                     |
 
-### 8. [↑](#-content) DNS/IP
+### 6.5 [↑](#-content) DNS/IP
 
 | Tools                                                                                                                                   | Description                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -1142,7 +1143,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-### 19. [↑](#-content) System
+### 6.6 [↑](#-content) System
 
 | Tools                                                                                                           | Description                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1157,9 +1158,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-## 5. [↑](#-content) AI Tools
+## 7. [↑](#-content) AI Tools
 
-### 5.1 [↑](#-content) AI Programming
+### 7.1 [↑](#-content) AI Programming
 
 | Tool                                                  | Description                                                                                                                                                                                                           |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1171,7 +1172,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources (like cybersources but with ai)|
 
 
-### 5.2 [↑](#-content) AI Cybersecurity
+### 7.2 [↑](#-content) AI Cybersecurity
 
 | Tool                                               | Description                                                                                                                                                                                       |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1185,9 +1186,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-## [↑](#-content) 22. Specialized Tools
+## [↑](#-content) 8. Specialized Tools
 
-### [↑](#-content) 22. Cryptocurrency
+### [↑](#-content) 8.1 Cryptocurrency
 
 | Tool                                                                                     | Description                                                                         |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -1204,7 +1205,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Cryptocurrency Alerting](https://www.cryptocurrencyalerting.com)                        | Real-time customizable price alerts for cryptocurrencies, stocks, and coins.        |
 
 
-### [↑](#-content) 24. Playbooks
+### [↑](#-content) 8.2 Playbooks
 
 | Tool                                                                                                | Description                                                    |
 | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -1217,16 +1218,16 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Hive-Templates](https://github.com/socfortress/Playbooks/tree/main/Hive-Templates)                 | Templates for incident tracking in Hive.                       |
 
 
-### [↑](#-content) 26. SIEM
+### [↑](#-content) 8.3 SIEM
 
 | Tool                                  | Description                                                                                     |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Cybersec](https://cybersectools.com) | A cybersecurity platform that integrates with SIEM solutions for centralized threat management. |
 
 
-## [↑](#-content) 22. Hardware & Operating Systems
+## [↑](#-content) 9. Hardware & Operating Systems
 
-### [↑](#-content) 31. Operating Systems
+### [↑](#-content) 9.1 Operating Systems
 
 | **System**    | **Description**                                                                                      |
 |---------------|------------------------------------------------------------------------------------------------------|
@@ -1255,7 +1256,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-### [↑](#-content)  Hardware Tools
+### [↑](#-content) 9.2 Hardware Tools
 
 | Tool                                     | Description                                                                                                                                                                             |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
