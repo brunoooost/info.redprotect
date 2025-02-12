@@ -1,11 +1,10 @@
 <div align="center">
-<h2>Cybersources - All Cybersecurity tools and resources.</h2>
  
- ![image](https://github.com/user-attachments/assets/36231aa4-e103-4fb3-97ee-5e9b83793852)
+ ![image](https://github.com/bst04/cybersources/blob/main/cybersources/banner%20cybersources.png?raw=true)
 
 Welcome to the **Cybersources**! This project serves as a central hub for a wide range of tools, resources, and educational materials designed for cybersecurity professionals, enthusiasts, and learners. Whether you're just starting out or an experienced expert, you'll find everything you need to enhance your skills, stay updated with industry trends, and deepen your knowledge in this fast-evolving field. 
 
-**🎉 Join now the discord community (+550 members): https://discord.gg/6s9W3EQApw 🎉**
+**🎉 Join now the discord community (+600 members): https://discord.gg/6s9W3EQApw 🎉**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunoooost%2Fcybersources&count_bg=%236DAC3E&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![](https://img.shields.io/badge/Discord-%235865F2.svg?style=Social&logo=discord&logoColor=white)](https://discord.gg/HhjhQgnp54)
